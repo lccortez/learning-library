@@ -1,0 +1,79 @@
+{
+    "workshoptitle": "Insight ",
+    "help": "livelabs-help-**enterarea**_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Getting Started",
+            "description": "Prerequisites for LiveLabs (Oracle-owned tenancies). The title of the lab and the Contents Menu title (the title above) match for Prerequisite lab. This lab is always first.",
+            "filename": "https://raw.githubusercontent.com/oracle/learning-library/master/common/labs/cloud-login/cloud-login-livelabs2.md"
+        },
+        {
+            "title": "Introduction to Oracle Integration Insight",
+            "description": "Introduction to Oracle Integration Insight",
+            "filename": "../insight/insight-introduction.md"
+        },
+        {
+            "title": "Lab 1: Key Concepts",
+            "description": "Oracle Insight Key Concepts",
+                        "filename": "../key-concepts/key-concepts.md"
+        },
+        {
+            "title": "Lab 2: Lab Preparation",
+            "description": "Oracle Insight Lab Prepration",
+            "filename": "../lab-prepration/lab-prepration.md"
+        },
+        {
+            "title": "Lab 3: Oracle Insight Navigation",
+            "filename": "../navigation-layout-commands/navigation-layout-commands.md"
+        },
+        {
+            "title": "Lab 4: SLA",
+            "filename": "../sla/sla.md"
+        },
+        {
+            "title": "Lab 5: Create a Model",
+            "filename": "../create-a-model/create-a-model.md"
+        },
+        {
+            "title": "Lab 6: Define a Milestone",
+            "filename": "../define-a-milestone/define-a-milestone.md"
+        },
+        {
+            "title": "Lab 7: Integration Mapping",
+            "filename": "../integration-mapping/integration-mapping.md"
+        },
+        {
+            "title": "Lab 8: Create Indicators",
+            "filename": "../create-indicators/create-indicators.md"
+        },
+        {
+            "title": "Lab 9: Processing",
+            "filename": "../processing-mapping/processing-mapping.md"
+        },
+        {
+            "title": "Lab 10: Identifier Basics",
+            "filename": "../identifier-basics/identifier-basics.md"
+        },
+        {
+            "title": "Lab 11: Define an Alert",
+            "filename": "../define-an-alert/define-an-alert.md"
+        },
+        {
+            "title": "Lab 12: Console",
+            "filename": "../console/console.md"
+        },
+        {
+            "title": "Lab 13: Embedding",
+            "filename": "../embedding/embedding.md"
+        },
+        {
+            "title": "Lab 14: Roles and Personas",
+            "filename": "../roles-and-personas/roles-and-personas.md"
+        },
+        {
+            "title": "Need Help?",
+            "description": "Solutions to Common Problems and Directions for Receiving Live Help",
+            "filename":"https://raw.githubusercontent.com/oracle/learning-library/master/common/labs/need-help/need-help-livelabs.md"
+        }
+    ]
+}
