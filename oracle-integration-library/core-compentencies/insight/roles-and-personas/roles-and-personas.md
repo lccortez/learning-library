@@ -1,4 +1,4 @@
-## Insight Roles and Personas changes here because it wont change it anyway
+## Insight Roles and Personas 
 
 This workshop walks you through the 3 roles of Personas and Permissions in Oracle Integration Insight.
 
@@ -32,15 +32,6 @@ This user understands how the business works and can use the Insight consoles, w
 This user can view, create, manage, edit, and delete Insight dashboards through the Consoles page. This user does not have access to models through the Models page or create Models.
 
 
-
-
-* An Oracle Cloud Account -
-
-*Note: If you have a **Free Trial** account, when your Free Trial expires your account will be converted to an **Always Free** account. You will not be able to conduct Free Tier workshops unless the Always Free environment is available. **[Click here for the Free Tier FAQ page.](https://www.oracle.com/cloud/free/faq.html)***
-
-*This is the "fold" - below items are collapsed by default*
-
-##
 *At the conclusion of the lab add this statement:*
 You may now [proceed to the next lab](#next).
 
