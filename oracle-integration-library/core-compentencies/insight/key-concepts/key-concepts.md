@@ -6,7 +6,7 @@ The Lab will cover Orcale Integration Insight key concepts and terminology for e
 
 Estimated Lab Time: This Lab will be 15 minutes.
 
-## MODEL
+## Model
 A model is a business process, comprising of Milestone(s), a Unique Instance Indentifier, Indicator(s), and Alert(s). A model passes through several states during its lifecycle. 
 There are 8 states: 
 * Draft: A newly created model is in this state until the model is activated. In this state, changes can be made to the model and no metrics are collected. A draft model can be exported to later be imported into another Insight instance.
