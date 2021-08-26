@@ -10,7 +10,7 @@
         {
             "title": "Introduction to Oracle Integration Insight",
             "description": "Introduction to Oracle Integration Insight",
-            "filename": "../insight/insight-introduction.md"
+            "filename": "../insight/insight-to-oracle-introduction.md"
         },
         {
             "title": "Key Concepts",
@@ -18,56 +18,56 @@
                         "filename": "../key-concepts/key-concepts.md"
         },
         {
-            "title": "Lab 2: Lab Preparation",
+            "title": "Lab Preparation",
             "description": "Oracle Insight Lab Prepration",
             "filename": "../lab-prepration/lab-prepration.md"
         },
         {
-            "title": "Lab 3: Oracle Insight Navigation",
+            "title": "Oracle Insight Navigation",
             "filename": "../navigation-layout-commands/navigation-layout-commands.md"
         },
         {
-            "title": "Lab 4: SLA",
+            "title": "SLA",
             "filename": "../sla/sla.md"
         },
         {
-            "title": "Lab 5: Create a Model",
+            "title": "Create a Model",
             "filename": "../create-a-model/create-a-model.md"
         },
         {
-            "title": "Lab 6: Define a Milestone",
+            "title": "Define a Milestone",
             "filename": "../define-a-milestone/define-a-milestone.md"
         },
         {
-            "title": "Lab 7: Integration Mapping",
+            "title": "Integration Mapping",
             "filename": "../integration-mapping/integration-mapping.md"
         },
         {
-            "title": "Lab 8: Create Indicators",
+            "title": "Create Indicators",
             "filename": "../create-indicators/create-indicators.md"
         },
         {
-            "title": "Lab 9: Processing",
+            "title": "Processing",
             "filename": "../processing-mapping/processing-mapping.md"
         },
         {
-            "title": "Lab 10: Identifier Basics",
+            "title": "Identifier Basics",
             "filename": "../identifier-basics/identifier-basics.md"
         },
         {
-            "title": "Lab 11: Define an Alert",
+            "title": "Define an Alert",
             "filename": "../define-an-alert/define-an-alert.md"
         },
         {
-            "title": "Lab 12: Console",
+            "title": "Console",
             "filename": "../console/console.md"
         },
         {
-            "title": "Lab 13: Embedding",
+            "title": "Embedding",
             "filename": "../embedding/embedding.md"
         },
         {
-            "title": "Lab 14: Roles and Personas",
+            "title": "Roles and Personas",
             "filename": "../roles-and-personas/roles-and-personas.md"
         },
         {
