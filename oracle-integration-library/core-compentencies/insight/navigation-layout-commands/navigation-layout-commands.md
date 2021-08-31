@@ -14,7 +14,6 @@ The Integration Insight feature (commonly referred to as Insight) is located in 
 
 In this workshop, you will:
 * Navigate Insight
-* Understand Terminology
 
 ### Navigate
 #### Main Page
