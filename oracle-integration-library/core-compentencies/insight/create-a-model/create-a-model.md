@@ -40,7 +40,8 @@ Create an Identfier
         4. Click save on the upper right corner
 
 
-
+Congratulation on creating your Draft Model. On the next Lab you will modify the existing Draft Model.
+You may now [proceed to the next lab](#next).
             
 
 
