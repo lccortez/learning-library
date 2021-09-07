@@ -17,7 +17,7 @@ A model that is not activated is known as a Draft Model. In draft mode, you may 
             c. Click on "Create"
         3. This will open the Draft Model page, at the Milestones Process.
 A Milestone is a key component of an Insight Model. Milestone(s) define point(s) in a business process that represent progress. Your Model requires An Initial Milestone and a Terminal Milestone. 
-### Create An Milestones
+### Create A Milestone
     A. Intial Milestone (Rocket symbol) 
         1. Enter the milestone name "Order Received"
         2. Enter the milestone description "my orders received"
