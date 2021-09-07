@@ -8,7 +8,7 @@ The Lab will cover how to build a simple usable Model with milestones and an Ide
 
 ## Excersise One 
 A model that is not activated is known as a Draft Model. In draft mode, you may modify the model.
-Create Model
+### Create Model
     A. Open Oracle Insight
         1. Click on <Models>
         2. Click on <Create>
@@ -17,15 +17,15 @@ Create Model
             c. Click on "Create"
         3. This will open the Draft Model page, at the Milestones Process.
 A Milestone is a key component of an Insight Model. Milestone(s) define point(s) in a business process that represent progress. Your Model requires An Initial Milestone and a Terminal Milestone. 
-Create An Milestones
+### Create An Milestones
     A. Intial Milestone (Rocket symbol) 
         1. Enter the milestone name "Order Received"
         2. Enter the milestone description "my orders received"
     B. Terminal Milestone (Finish Flag Symbol)
         1. Enter the milestone name "Order Complete"
         2. Enter the milestone description "Orders Completed via system"
-Every Insight model must have a unique instance identifier defined. This identifier describes a value that is extracted at runtime for every instance (business transaction) of the business process defined by the model. 
-Create an Identfier
+Every Insight model must have a unique instance identifier defined. This identifier describes a value that is extracted at runtime for every instance (business transaction) of the business process defined by the model. When a business process implementation spans more than one integration or process, or both, you must assign the model's unique instance identifier to mapped milestones to establish the correlation between the actions in the same instance of the business process and extract the unique instance identifier value when the specified milestone is passed.
+### Create an Identfier
     A. Click tab named <Indentier>
         1. Enter the indentifer name "Order ID"
         2. Click on the Option Enter the Indefier Description. This will opne the Milestone mapping area.
@@ -39,8 +39,8 @@ Create an Identfier
             d  Under Data Type, click the dropdown menu and select _______
         4. Click save on the upper right corner
 
-
-Congratulation on creating your Draft Model. On the next Lab you will modify the existing Draft Model.
+At this point you have completed your Draft Model with required Milestone and Indentifier. Your Draft Model is not visiable in the Console but 
+On the next Lab you will modify the existing Draft Model.
 You may now [proceed to the next lab](#next).
             
 
