@@ -6,7 +6,7 @@ The Lab will cover how to build a simple usable Model with milestones and an Ide
 
  Estimated labs Time: 15 minutes
 
-## Excersise One 
+## Excersise 1
 A model that is not activated is known as a Draft Model. In draft mode, you may modify the model.
 ### Create Model
     A. Open Oracle Insight
@@ -39,7 +39,12 @@ Every Insight model must have a unique instance identifier defined. This identif
             d  Under Data Type, click the dropdown menu and select _______
         4. Click save on the upper right corner
 
-At this point you have completed your Draft Model with required Milestone and Indentifier. Your Draft Model is not visiable in the Console but 
+At this point you have completed your Draft Model with required Milestone and Indentifier. Your Draft Model is not visiable in the Console.
+
+## Solution 1
+
+
+
 On the next Lab you will modify the existing Draft Model.
 You may now [proceed to the next lab](#next).
             
