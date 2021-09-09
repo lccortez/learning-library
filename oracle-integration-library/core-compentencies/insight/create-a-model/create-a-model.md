@@ -38,11 +38,13 @@ This initial excercise will have you create your draft model, initial and termin
         2. Click on the Option Enter the Indefier Description. This will opne the Milestone mapping area.
             a. From the Milestone dropdown select <Order Recieved>
             b. Select a Data Type of <String>
+                i.Note:The selected data type must match the data type of the value that will be extracted at runtime, as defined by the associated identifier extraction criteria that you will specify later. Otherwise, the identifier will show an empty value in Insight dashboards.
             c. Click <Save>
         3. Click <Save> on the upper right corner
-Note:The selected data type must match the data type of the value that will be extracted at runtime, as defined by the associated identifier extraction criteria that you will specify later. Otherwise, the identifier will show an empty value in Insight dashboards.
+
 
 ## Solution
+
 
 
 At this point you have completed your Draft Model with required Milestones (Initial and Terminal) and mapped Indentifier. 
