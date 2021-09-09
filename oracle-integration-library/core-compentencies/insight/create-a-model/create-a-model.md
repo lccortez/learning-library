@@ -7,7 +7,7 @@ The Lab will cover how to build a simple model by reading the learning objective
  Estimated Lab Time: 15 minutes
 
 ## Learning Objectives
-A Model is a web-besed interface which allow users to collect and monitor metrics for the business processes. 
+
 The Model has Milestone(s), and an Identifier which is mapped to one, or more, of the milestone(s). The Initial creation of a Model is called a Draft; which is not activated and can be modified, but not visable in the Console. 
 A Milestone is a key component of a Model. Milestone(s) define point(s) in a business process that represent progress. Your Model requires an Initial Milestone and a Terminal Milestone. 
 Every Model must have a unique instance Identifier defined. This identifier describes a value that is extracted at runtime for every instance (business transaction) of the business process defined by the model. 
@@ -15,7 +15,7 @@ When a business process implementation spans more than one integration or proces
 
 This initial excercise will have you create your draft model, initial and terminal milestones, and an identifier mapped to one of the milestones thru a data type.
 ## Excercise 1
- You will create a Model named Order Management with 2 Milestone and an identifier. The order process starts with an initial milestone, named Order Received, which provides metrics for an order, such as number of items, type ordered, shipping address, and shipping type. You will complete a terminal milestone name Order Completed. The Identifier will be mapped to the milestone named Order Recieved via a String data type. Your model will be kept in Draft form while thru several iterations. 
+ You will create a Model named Order Management with 2 Milestone and an identifier. The order process starts with an initial milestone, named Order Received, which provides metrics for an order, such as number of items, type ordered, shipping address, and shipping type. You will complete a terminal milestone name Order Completed. The Identifier will be mapped to the milestone named Order Recieved via a String value. Your model will be kept in Draft form while thru several iterations. 
 
 ### Create Model
     A. Open Oracle Insight
