@@ -4,7 +4,7 @@
 
 The Lab will cover how to build a simple model by reading the learning objectives, participating in an excercise and reviewing the solution tab.
 
- Estimated labs Time: 15 minutes
+ Estimated Lab Time: 15 minutes
 
 ## Learning Objectives
 A Model is a web-besed interface which allow users to collect and monitor metrics for the business processes. 
