@@ -15,7 +15,7 @@ When a business process implementation spans more than one integration or proces
 
 This initial excercise will have you create your draft model, initial and terminal milestones, and an identifier mapped to one of the milestones thru a data type.
 ## Excercise 1
- You will create a Model named Order Management with 2 Milestone and an identifier. The order process starts with an initial milestone, named Order Received, which provides metrics for an order, such as number of items, type ordered, shipping address, and shipping type. You will complete a terminal milestone name Order Completed. The Identifier will be mapped to the milestone named Order Recieved via a String value. Your model will be kept in Draft form while thru several iterations. 
+ You will create a Model named Order Management with 2 Milestone and an identifier. The order process starts with an initial milestone, named Order Received, which provides metrics for an order, such as number of items, type ordered, shipping address, and shipping type. You will include a terminal milestone name Order Completed. The Identifier will be mapped to the milestone named Order Recieved via a String value. Your model will be kept in Draft form thru several iterations. 
 
 ### Create Model
     A. Open Oracle Insight
