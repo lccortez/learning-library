@@ -26,7 +26,10 @@
             "title": "Oracle Insight Navigation",
             "filename": "../navigation-layout-commands/navigation-layout-commands.md"
         },
-                {
+        {
+            "title": "Learning Objectives"
+        },       
+        {
             "title": "Create a Model",
             "filename": "../create-a-model/create-a-model.md"
         },
