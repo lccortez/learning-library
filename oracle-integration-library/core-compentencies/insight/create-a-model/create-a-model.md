@@ -8,9 +8,11 @@ The Lab will cover how to build a simple model by reading the learning objective
 
 ## Learning Objectives
 
-The Model has Milestone(s), and an Identifier which is mapped to one, or more, of the milestone(s). The Initial creation of a Model is called a Draft; which is not activated and can be modified, but not visable in the Console. 
+A Model has Milestone(s), and an Identifier which is mapped to one, or more, of the milestone(s). The initial creation of a Model is called a Draft; and an be modified, but not active or visable in the Console. 
+
 A Milestone is a key component of a Model. Milestone(s) define point(s) in a business process that represent progress. Your Model requires an Initial Milestone and a Terminal Milestone. 
 Every Model must have a unique instance Identifier defined. This identifier describes a value that is extracted at runtime for every instance (business transaction) of the business process defined by the model. 
+
 When a business process implementation spans more than one integration or process, or both, you must assign the model's unique instance identifier to mapped milestones to establish the correlation between the actions in the same instance of the business process and extract the unique instance identifier value when the specified milestone is passed.
 
 This initial excercise will have you create your draft model, initial and terminal milestones, and an identifier mapped to one of the milestones thru a data type.

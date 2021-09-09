@@ -23,3 +23,14 @@ In this excersice we will map a Measures Indicator to the Discount Applied Miles
 When a business process implementation spans more than one integration or process, or both, you must assign the model's unique instance identifier to mapped milestones to establish the correlation between the actions in the same instance of the business process and extract the unique instance identifier value when the specified milestone is passed.
 
 ## Excercise 2
+
+
+
+
+
+
+
+
+
+
+## Solution 
