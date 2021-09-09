@@ -12,8 +12,10 @@ The Model has Milestone(s), and an Identifier which is mapped to one, or more, o
 A Milestone is a key component of a Model. Milestone(s) define point(s) in a business process that represent progress. Your Model requires an Initial Milestone and a Terminal Milestone. 
 Every Model must have a unique instance Identifier defined. This identifier describes a value that is extracted at runtime for every instance (business transaction) of the business process defined by the model. 
 When a business process implementation spans more than one integration or process, or both, you must assign the model's unique instance identifier to mapped milestones to establish the correlation between the actions in the same instance of the business process and extract the unique instance identifier value when the specified milestone is passed.
-## Excercise 1
+
 This initial excercise will have you create your draft model, initial and terminal milestones, and an identifier mapped to one of the milestones thru a data type.
+## Excercise 1
+ You will create a Model named Order Management with 2 Milestone and an identifier. The order process starts with an initial milestone, named Order Received, which provides metrics for an order, such as number of items, type ordered, shipping address, and shipping type. You will complete a terminal milestone name Order Completed. The Identifier will be mapped to the milestone named Order Recieved via a String data type. Your model will be kept in Draft form while thru several iterations. 
 
 ### Create Model
     A. Open Oracle Insight
