@@ -1,21 +1,32 @@
-# Learning Objective 1
+# Learning Objective 1: Create a Model
 
-## About this Lab
+## Introduction
 
 The Lab will cover how to build a simple model by reading the learning objectives, participating in an excercise and reviewing the solution tab.
 
  Estimated Lab Time: 15 minutes
 
+<<<<<<< HEAD
 ## Learning Objectives
 
 A Model has Milestone(s), and an Identifier which is mapped to one, or more, of the milestone(s). The initial creation of a Model is called a Draft; and an be modified, but not active or visable in the Console. 
+=======
+## About Insight Models
+The Model has Milestone(s), and an Identifier which is mapped to one, or more, of the milestone(s). The Initial creation of a Model is called a Draft; which is not activated and can be modified, but not visable in the Console. 
+>>>>>>> 8d95373d10717a0d44a47035d82205a6f6dd2831
 
 A Milestone is a key component of a Model. Milestone(s) define point(s) in a business process that represent progress. Your Model requires an Initial Milestone and a Terminal Milestone. 
 Every Model must have a unique instance Identifier defined. This identifier describes a value that is extracted at runtime for every instance (business transaction) of the business process defined by the model. 
 
 When a business process implementation spans more than one integration or process, or both, you must assign the model's unique instance identifier to mapped milestones to establish the correlation between the actions in the same instance of the business process and extract the unique instance identifier value when the specified milestone is passed.
 
-This initial excercise will have you create your draft model, initial and terminal milestones, and an identifier mapped to one of the milestones thru a data type.
+## Learning Objectives
+In this lab, you will:
+- Create a draft model
+- Create Initial and Terminal milestones
+- Create an Identifier mapped to one of the milestones thru a data type
+
+
 ## Excercise 1
  You will create a Model named Order Management with 2 Milestone and an identifier. The order process starts with an initial milestone, named Order Received, which provides metrics for an order, such as number of items, type ordered, shipping address, and shipping type. You will include a terminal milestone name Order Completed. The Identifier will be mapped to the milestone named Order Recieved via a String value. Your model will be kept in Draft form thru several iterations. 
 
