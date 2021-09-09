@@ -7,6 +7,10 @@ The Lab will cover how to build a simple usable Model with milestones and an Ide
  Estimated labs Time: 15 minutes
 
 ## Learning Objective
+A Model is the 
+A Milestone is a key component of an Insight Model. Milestone(s) define point(s) in a business process that represent progress. Your Model requires An Initial Milestone and a Terminal Milestone. 
+Every Insight model must have a unique instance identifier defined. This identifier describes a value that is extracted at runtime for every instance (business transaction) of the business process defined by the model. When a business process implementation spans more than one integration or process, or both, you must assign the model's unique instance identifier to mapped milestones to establish the correlation between the actions in the same instance of the business process and extract the unique instance identifier value when the specified milestone is passed.
+## Excercise 1
 A model that is not activated is known as a Draft Model. In draft mode, you may modify the model.
 ### Create Model
     A. Open Oracle Insight
@@ -41,7 +45,7 @@ Every Insight model must have a unique instance identifier defined. This identif
 
 At this point you have completed your Draft Model with required Milestone and Indentifier. Your Draft Model is not visiable in the Console.
 
-## Excercise 1
+
 
 
 

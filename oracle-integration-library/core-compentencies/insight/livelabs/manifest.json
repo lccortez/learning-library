@@ -26,17 +26,9 @@
             "title": "Oracle Insight Navigation",
             "filename": "../navigation-layout-commands/navigation-layout-commands.md"
         },
-        {
-            "title": "SLA",
-            "filename": "../sla/sla.md"
-        },
-        {
+                {
             "title": "Create a Model",
             "filename": "../create-a-model/create-a-model.md"
-        },
-        {
-            "title": "Define a Milestone",
-            "filename": "../define-a-milestone/define-a-milestone.md"
         },
         {
             "title": "Integration Mapping",
@@ -57,6 +49,10 @@
         {
             "title": "Define an Alert",
             "filename": "../define-an-alert/define-an-alert.md"
+        },
+        {
+            "title": "SLA",
+            "filename": "../sla/sla.md"
         },
         {
             "title": "Console",
