@@ -4,7 +4,7 @@
 
 The Lab will cover how to build a simple model by reading the learning objectives, participating in an excercise and reviewing the solution tab.
 
- Estimated Lab Time: 15 minutes
+Estimated Lab Time: 15 minutes
 
 <<<<<<< HEAD
 ## Learning Objectives
@@ -12,6 +12,7 @@ The Lab will cover how to build a simple model by reading the learning objective
 A Model has Milestone(s), and an Identifier which is mapped to one, or more, of the milestone(s). The initial creation of a Model is called a Draft; and an be modified, but not active or visable in the Console. 
 =======
 ## About Insight Models
+<<<<<<< HEAD
 The Model has Milestone(s), and an Identifier which is mapped to one, or more, of the milestone(s). The Initial creation of a Model is called a Draft; which is not activated and can be modified, but not visable in the Console. 
 >>>>>>> 8d95373d10717a0d44a47035d82205a6f6dd2831
 
@@ -19,18 +20,27 @@ A Milestone is a key component of a Model. Milestone(s) define point(s) in a bus
 Every Model must have a unique instance Identifier defined. This identifier describes a value that is extracted at runtime for every instance (business transaction) of the business process defined by the model. 
 
 When a business process implementation spans more than one integration or process, or both, you must assign the model's unique instance identifier to mapped milestones to establish the correlation between the actions in the same instance of the business process and extract the unique instance identifier value when the specified milestone is passed.
+=======
+The Model has Milestone(s), and an Identifier which is mapped to one, or more, of the milestone(s). The Initial creation of a Model is called a Draft; which is not activated and can be modified, but not visable in the Console. <br />
+
+A Milestone is a key component of a Model. Milestone(s) define point(s) in a business process that represent progress. Your Model requires an Initial Milestone and a Terminal Milestone. <br />
+
+Every Model must have a unique instance Identifier defined. This identifier describes a value that is extracted at runtime for every instance (business transaction) of the business process defined by the model. <br />
+
+When a business process implementation spans more than one integration or process, or both, you must assign the model's unique instance identifier to mapped milestones to establish the correlation between the actions in the same instance of the business process and extract the unique instance identifier value when the specified milestone is passed. <br />
+>>>>>>> 665d1d91170ba3db9cc1b6e4283553b52510b5f4
 
 ## Learning Objectives
-In this lab, you will:
-- Create a draft model
-- Create Initial and Terminal milestones
-- Create an Identifier mapped to one of the milestones thru a data type
+In this lab, you will learn how to create the following:
+- Draft Model
+- Initial and Terminal Milestones
+- Identifier mapped to one of the Milestones through a data type
 
 
-## Excercise 1
+## Excercise
  You will create a Model named Order Management with 2 Milestone and an identifier. The order process starts with an initial milestone, named Order Received, which provides metrics for an order, such as number of items, type ordered, shipping address, and shipping type. You will include a terminal milestone name Order Completed. The Identifier will be mapped to the milestone named Order Recieved via a String value. Your model will be kept in Draft form thru several iterations. 
 
-### Create Model
+### Task 1: Create Model
     A. Open Oracle Insight
         1. Click on <Models>
         2. Click on <Create>
@@ -39,7 +49,7 @@ In this lab, you will:
             c. Click on "Create"
         3. This will open the Draft Model page, at the Milestones Process.
  
-### Create A Milestone
+### Task 2: Create A Milestone
     A. Intial Milestone (Rocket symbol) 
         1. Enter the milestone name "Order Received"
         2. Enter the milestone description "my orders received"
@@ -47,7 +57,7 @@ In this lab, you will:
         1. Enter the milestone name "Order Complete"
         2. Enter the milestone description "Orders Completed via system"
 
-### Create an Identfier
+### Task 3: Create an Identfier
     A. Click tab named <Indentifier>
         1. Enter the inentifier name "Order ID"
         2. Click on the Option Enter the Identifier Description. This will opne the Milestone mapping area.
@@ -62,9 +72,10 @@ In this lab, you will:
 
 
 
-At this point you have completed your Draft Model with required Milestones (Initial and Terminal) and mapped Indentifier. 
+At this point you have completed your Draft Model with required Milestones (Initial and Terminal) and mapped Indentifier. <br />
 
-On the next Lab you will modify the existing Draft Model.
+On the next Lab you will modify the existing Draft Model. <br />
+
 You may now [proceed to the next lab](#next).
             
 
