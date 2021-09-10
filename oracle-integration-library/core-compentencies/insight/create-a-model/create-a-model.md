@@ -48,7 +48,7 @@ In this lab, you will learn how to create the following:
         2. Click on the Option Enter the Identifier Description. This will opne the Milestone mapping area.
             a. From the Milestone dropdown select <Order Recieved>
             b. Select a Data Type of <String>
-                i.Note:The selected data type must match the data type of the value that will be extracted at runtime, as defined by the associated identifier extraction criteria that you will specify later. Otherwise, the identifier will show an empty value in Insight dashboards.
+                i. Note: The selected data type must match the data type of the value that will be extracted at runtime, as defined by the associated identifier extraction criteria that you will specify later. Otherwise, the identifier will show an empty value in Insight dashboards.
             c. Click <Save>
         3. Click <Save> on the upper right corner
 
@@ -60,6 +60,6 @@ In this lab, you will learn how to create the following:
 ## Summary
 Great job adding your Indicator.<br />
 
-On the next Lab you will use an Integration Mapping to your Draft Model. <br />
+On the next Lab you will modify your Draft Model. <br />
 
 You may now [proceed to the next lab](#next).

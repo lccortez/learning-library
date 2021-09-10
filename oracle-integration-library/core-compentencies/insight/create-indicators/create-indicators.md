@@ -47,10 +47,18 @@ In this excersice we will map a Measures Indicator to the Discount Applied Miles
             a. Enter the milestone name "Discount Applied"
             b. Enter the milestone description "Creating a milestone with a Indicators"
             c. Filterable box should be left blank 
-        Note: Extraction Criteria will state "Selected milestonei in not mapped to any integration actions"    
+        Note: Extraction Criteria will state "Selected milestones in not mapped to any integration actions"    
         3. Click <Save> on the upper right corner
 
-   
+   ### Task 3: Create an Identfier
+    A. Click tab named <Indentifier>
+        1. Enter the inentifier name "Order ID"
+        2. Click on the Option Enter the Identifier Description. This will opne the Milestone mapping area.
+            a. From the Milestone dropdown select <Order Recieved>
+            b. Select a Data Type of <String>
+                i.Note:The selected data type must match the data type of the value that will be extracted at runtime, as defined by the associated identifier extraction criteria that you will specify later. Otherwise, the identifier will show an empty value in Insight dashboards.
+            c. Click <Save>
+        3. Click <Save> on the upper right corner
 ### Task 3: Add an Indicator
     A. Add Measure Indicator
         1. Click the plus (+) sign to the right of Indicators
@@ -67,3 +75,6 @@ ________________________________________________________________________________
 
 ## Solution 
 When a business process implementation spans more than one integration or process, or both, you must assign the model's unique instance identifier to mapped milestones to establish the correlation between the actions in the same instance of the business process and extract the unique instance identifier value when the specified milestone is passed.
+
+
+## Summary
