@@ -58,8 +58,8 @@ In this lab, you will learn how to create the following:
 
 
 ## Summary
-At this point you have completed your Draft Model with required Milestones (Initial and Terminal) and mapped Indentifier. <br />
+Great job adding your Indicator.<br />
 
-On the next Lab you will modify the existing Draft Model. <br />
+On the next Lab you will use an Integration Mapping to your Draft Model. <br />
 
 You may now [proceed to the next lab](#next).
