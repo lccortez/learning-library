@@ -47,7 +47,7 @@ In this excersice we will map a Measures Indicator to the Discount Applied Miles
             a. Enter the milestone name "Discount Applied"
             b. Enter the milestone description "Creating a milestone with a Indicators"
             c. Filterable box should be left blank 
-        Note: Extraction Criteria will state "Selected milestones in not mapped to any integration actions"    
+        Note: Extraction Criteria will state "Selected milestones is not mapped to any integration actions"    
         3. Click <Save> on the upper right corner
 
    ### Task 3: Create an Identfier
