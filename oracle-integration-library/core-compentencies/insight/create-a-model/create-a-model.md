@@ -26,7 +26,7 @@ A. Open Oracle Insight
 A Milestone is a key component of a Model. Milestone(s) define point(s) in a business process that represent progress. Your Model requires an Initial Milestone and a Terminal Milestone. <br />
 ### Sample Milestones
 
- A. Intial Milestone (Rocket symbol) 
+ A. Intial Milestone (Rocket symbol) <br />
         1. Enter the milestone name "Initial Milestone name"
         2. Enter the milestone description "Initial Milestone Description"
     B. Terminal Milestone (Finish Flag Symbol)
