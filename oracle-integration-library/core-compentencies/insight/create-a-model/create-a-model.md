@@ -26,7 +26,7 @@ A. Open Oracle Insight
 A Milestone is a key component of a Model. Milestone(s) define point(s) in a business process that represent progress. Your Model requires an Initial Milestone and a Terminal Milestone. <br />
 ### Sample Milestones
 
- A. Intial Milestone (Rocket symbol) <br />
+    A. Intial Milestone (Rocket symbol) <br />
         1. Enter the milestone name "Initial Milestone name"
         2. Enter the milestone description "Initial Milestone Description"
     B. Terminal Milestone (Finish Flag Symbol)
@@ -35,7 +35,7 @@ A Milestone is a key component of a Model. Milestone(s) define point(s) in a bus
 Every Model must have a unique instance Identifier defined. This identifier describes a value that is extracted at runtime for every instance (business transaction) of the business process defined by the model. <br />
 ### Sample Indentifier
 
-A.  Click tab named <Indentifier>
+    A.  Click tab named <Indentifier>
         1. Enter the inentifier name "Order ID"
         2. Click on the Option Enter the Identifier Description. This will opne the Milestone mapping area.
             a. From the Milestone dropdown select <Order Recieved>
@@ -56,15 +56,6 @@ Open Insight and create your Draft Model. Name the Draft Model "Order Management
 As taught, each Model needs an Initial and Terminal Milestone. For your Initial Milestone (Rocket Symbol), enter milestone name "Order Recieved" and for the Description enter "My first Orders received". For you Terminal Milestone (Finish Line Flag Symbol), Enter milestone name "Order Completed" and enter milestone description "Orders Completed via System"
     
 ### Task 3: Create an Identfier
-
-    A. Click tab named <Indentifier>
-        1. Enter the inentifier name "Order ID"
-        2. Click on the Option Enter the Identifier Description. This will opne the Milestone mapping area.
-            a. From the Milestone dropdown select <Order Recieved>
-            b. Select a Data Type of <String>
-                i. Note: The selected data type must match the data type of the value that will be extracted at runtime, as defined by the associated identifier extraction criteria that you will specify later. Otherwise, the identifier will show an empty value in Insight dashboards.
-            c. Click <Save>
-        3. Click <Save> on the upper right corner
 
 
 ## Solution
