@@ -14,6 +14,7 @@ In this lab, you will learn how to create the following:
 
 The Model has Milestone(s), and an Identifier which is mapped to one, or more, of the milestone(s). The Initial creation of a Model is called a Draft; which is not activated and can be modified, but not visable in the Console. <br />
 ### Sample Creation of a Model
+
 A. Open Oracle Insight
         1. Click on <Models>
         2. Click on <Create>
@@ -24,6 +25,7 @@ A. Open Oracle Insight
 
 A Milestone is a key component of a Model. Milestone(s) define point(s) in a business process that represent progress. Your Model requires an Initial Milestone and a Terminal Milestone. <br />
 ### Sample Milestones
+
  A. Intial Milestone (Rocket symbol) 
         1. Enter the milestone name "Initial Milestone name"
         2. Enter the milestone description "Initial Milestone Description"
@@ -31,7 +33,8 @@ A Milestone is a key component of a Model. Milestone(s) define point(s) in a bus
         1. Enter the milestone name "Terminal Milestone"
         2. Enter the milestone description "Orders Completed via system"
 Every Model must have a unique instance Identifier defined. This identifier describes a value that is extracted at runtime for every instance (business transaction) of the business process defined by the model. <br />
-### 
+### Sample Indentifier
+
 A.  Click tab named <Indentifier>
         1. Enter the inentifier name "Order ID"
         2. Click on the Option Enter the Identifier Description. This will opne the Milestone mapping area.
