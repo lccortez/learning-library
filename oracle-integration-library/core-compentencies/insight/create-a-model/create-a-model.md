@@ -4,7 +4,7 @@
 
 The Lab will cover how to build a simple model by reading the learning objectives, participating in an excercise and reviewing the solution tab.
 
-Estimated Lab Time: 15 minutes
+Estimated Lab Time: 15 minutes`
 
 ## About Insight Models
 The Model has Milestone(s), and an Identifier which is mapped to one, or more, of the milestone(s). The Initial creation of a Model is called a Draft; which is not activated and can be modified, but not visable in the Console. <br />
@@ -14,6 +14,8 @@ A Milestone is a key component of a Model. Milestone(s) define point(s) in a bus
 Every Model must have a unique instance Identifier defined. This identifier describes a value that is extracted at runtime for every instance (business transaction) of the business process defined by the model. <br />
 
 When a business process implementation spans more than one integration or process, or both, you must assign the model's unique instance identifier to mapped milestones to establish the correlation between the actions in the same instance of the business process and extract the unique instance identifier value when the specified milestone is passed. <br />
+
+More info on Insight Models can be found [here](https://docs.oracle.com/en/cloud/paas/integration-cloud/user-int-insight-oci/work-models-integration-insight.html).
 
 ## Learning Objectives
 In this lab, you will learn how to create the following:
