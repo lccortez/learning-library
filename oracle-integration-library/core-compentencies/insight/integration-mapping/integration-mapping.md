@@ -1,4 +1,4 @@
-# Learning Objective 2
+# Learning Objective 2X: Integration Mapping
 
 ## About this Lab
 

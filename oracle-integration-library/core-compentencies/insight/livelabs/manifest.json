@@ -31,20 +31,16 @@
             "filename": "../create-a-model/create-a-model.md"
         },
         {
-            "title": "Integration Mapping",
-            "filename": "../integration-mapping/integration-mapping.md"
+            "title": "Processing",
+            "filename": "../processing-mapping/processing-mapping.md"
         },
         {
-            "title": "Identifier Basics",
-            "filename": "../identifier-basics/identifier-basics.md"
-        },
+            "title": "Integration Mapping",
+            "filename": "../integration-mapping/integration-mapping.md"
+        },        
         {
             "title": "Create Indicators",
             "filename": "../create-indicators/create-indicators.md"
-        },
-        {
-            "title": "Processing",
-            "filename": "../processing-mapping/processing-mapping.md"
         },
         {
             "title": "Define an Alert",
