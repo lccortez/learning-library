@@ -36,7 +36,7 @@ In this excersice we will map a Measures Indicator to the Discount Applied Miles
 
 ### Task 1: Edit Draft Model
     A. Open Oracle Insight
-        1. Click on <Models>
+        1. Click on <Models> 
         2. Click the name of your Model <Order Management>
         3. This will open at the Milestones Process.
  
@@ -50,16 +50,7 @@ In this excersice we will map a Measures Indicator to the Discount Applied Miles
         Note: Extraction Criteria will state "Selected milestones is not mapped to any integration actions"    
         3. Click <Save> on the upper right corner
 
-   ### Task 3: Create an Identfier
-    A. Click tab named <Indentifier>
-        1. Enter the inentifier name "Order ID"
-        2. Click on the Option Enter the Identifier Description. This will opne the Milestone mapping area.
-            a. From the Milestone dropdown select <Order Recieved>
-            b. Select a Data Type of <String>
-                i.Note:The selected data type must match the data type of the value that will be extracted at runtime, as defined by the associated identifier extraction criteria that you will specify later. Otherwise, the identifier will show an empty value in Insight dashboards.
-            c. Click <Save>
-        3. Click <Save> on the upper right corner
-### Task 3: Add an Indicator
+  ### Task 3: Add an Indicator
     A. Add Measure Indicator
         1. Click the plus (+) sign to the right of Indicators
         2. A dropdown will appear choose "Add Measure"
