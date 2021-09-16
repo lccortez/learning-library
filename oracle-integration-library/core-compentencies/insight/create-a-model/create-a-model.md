@@ -36,7 +36,7 @@ A Milestone is a key component of a Model. Milestone(s) define point(s) in a bus
 Every Model must have a unique instance Identifier defined. This identifier describes a value that is extracted at runtime for every instance (business transaction) of the business process defined by the model. <br />
 ### Sample Indentifier
 
-    A.  Click tab named <Indentifier>
+    A.  Click tab named <Indentifier>, located between 
         1. Enter the inentifier name "Indentier Name"
         2. Click on the Option Enter the Identifier Description. This will open the Milestone mapping area.
             a. From the Milestone dropdown select <It will show your current Milestones available to map>
@@ -47,17 +47,32 @@ Every Model must have a unique instance Identifier defined. This identifier desc
 
 When a business process implementation spans more than one integration or process, or both, you must assign the model's unique instance identifier to mapped milestones to establish the correlation between the actions in the same instance of the business process and extract the unique instance identifier value when the specified milestone is passed. <br />
 
+Let's get you to create you first Insight Model! In the excercise there are three tasks that will need to be followed, in order, to accomplish excercise 1. 
+
 ## Excercise
- You will create a Model with 2 Milestones, an Initial and a Terminal, and an identifier. The order process starts with an initial milestone, named Order Received, which provides metrics for an order, such as number of items, type ordered, shipping address, and shipping type. You will include a terminal milestone name Order Completed. The Identifier will be mapped to the milestone named Order Recieved via a String value. Your model will be kept in Draft form thru several iterations. 
+ You will create a Insight Model with 2 Milestones, an Initial and a Terminal, and an identifier. Your model will be kept in Draft form thru several iterations. 
 
 ### Task 1: Create Model
-Open Insight and create your Draft Model. Name the Draft Model "Order Management" and provide the description of "My First Model". You will need to click Create to finish. When your completed it will open the Milestone Process for you; continue to Task 2 to add your Milestones
+Open Insight and create your Draft Model. Name the Draft Model "Order Order Processing" and provide the description of "My First Model". You will need to click <Create> to finish. When your completed it will open the Milestone Process for you; continue to Task 2 to add your Milestones.
      
 ### Task 2: Create A Milestone
 As taught, each Model needs an Initial and Terminal Milestone. For your Initial Milestone (Rocket Symbol), enter milestone name "Order Recieved" and for the Description enter "My first Orders received". For you Terminal Milestone (Finish Line Flag Symbol), Enter milestone name "Order Completed" and enter milestone description "Orders Completed via System"; continue to Task 3 to add your Indentifer.
     
 ### Task 3: Create an Identfier
+Finish your Draft Model by creating an Indenfier. The Identifier name is "Order Number ", the Data Type is "string" and is to assigned to "Order Recieved" and "Order Completed" Milestones
 
+Save and Close your Draft Model.
+
+
+
+## Excercise
+You will create a Insight Model with 2 Milestones, an Initial and a Terminal, and an identifier. Your model will be kept in Draft form thru several iterations. 
+
+1. Create an Insight Model named My Order Processing.
+2. Create an Initial Milestone named Order Received.
+3. Create a Terminal Milestone named Order Completed.
+4. Create an Identifier named Order Number of type String assigned to Order Received and Order Completed Milestones.
+5. Save and Close.
 
 ## Solution
 
