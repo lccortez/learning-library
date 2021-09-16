@@ -65,7 +65,7 @@ Save and Close your Draft Model.
 
 
 
-## Excercise
+## Excercise 1
 You will create a Insight Model with 2 Milestones, an Initial and a Terminal, and an identifier. Your model will be kept in Draft form thru several iterations. 
 
 1. Create an Insight Model named My Order Processing.
