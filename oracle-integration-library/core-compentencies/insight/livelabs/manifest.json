@@ -31,13 +31,9 @@
             "filename": "../create-a-model/create-a-model.md"
         },
         {
-            "title": "Processing",
+            "title": "Process Integration",
             "filename": "../processing-mapping/processing-mapping.md"
         },
-        {
-            "title": "Integration Mapping",
-            "filename": "../integration-mapping/integration-mapping.md"
-        },        
         {
             "title": "Create Indicators",
             "filename": "../create-indicators/create-indicators.md"
