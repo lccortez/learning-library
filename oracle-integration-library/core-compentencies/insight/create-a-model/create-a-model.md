@@ -65,21 +65,11 @@ Finish your Draft Model by creating an Indenfier. The Identifier name is "Order 
 Save and Close your Draft Model.
 
 
-
-## Excercise 1
-You will create a Insight Model with 2 Milestones, an Initial and a Terminal, and an identifier. Your model will be kept in Draft form thru several iterations. 
-
-1. Create an Insight Model named My Order Processing.
-2. Create an Initial Milestone named Order Received.
-3. Create a Terminal Milestone named Order Completed.
-4. Create an Identifier named Order Number of type String assigned to Order Received and Order Completed Milestones.
-5. Save and Close.
-
 ## Solution
 
 
 
 ## Summary
-Great job adding creating you Draft Model.<br />
+Great job creating your Draft Model.<br />
 
 You may now [proceed to the next lab](#next).
