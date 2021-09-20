@@ -14,15 +14,27 @@ In this lab, you will learn how to create the following:
 - Acivate your Insight Model
 
 Mapping milestones involves identifying execution points that best represent when a milestone has been passed. 
-As part of the mapping process, you must also define extraction criteria for the unique instance identifier and indicators (dimensions and measures). Extraction criteria define the rules to extract information from runtime messages, and is expressed using XPath expressions. Before you can activate a model, the extraction criteria must be defined. 
+As part of the mapping process, you must also define extraction criteria for the unique instance identifier. Extraction criteria define the rules to extract information from runtime messages, and is expressed using XPath expressions. Before you can activate a model, the extraction criteria must be defined. 
 ### Map a Milestone
-    A. 
-        1. 
-        2. 
-            a. 
-        3. 
-
-Once Integration has been mapped to the Milestone, it's time to change the Draft Model into a Configured State <br />
+    A. Click your Milestone name, this will expand the view area.   
+        1. Under mappings you will click on "Map Milestones" 
+        2. This will open the Integrations, either search or scroll to find your integration
+        3. At the far right (actions), and click on Insight Designer
+            a. You will see your Milestones on the right
+            b. Drag and drop the related criteria from the left to your Milestone
+                1. Select from dropdown "On Entry" or "On Exit"
+            c. Repeat for each Milestone you wish to map.
+### Map a Indentifier
+    A. Click your Indentifier, this will expand the view area.   
+        1. Under mappings you will click on "Open mapped integration to define extraction criteria" 
+        2. This will open the Integrations, that was previously used, for you to map 
+        3. You will see your Identifier on the right
+            a. Under Milstone you will see Extraction Criteria
+                1. Click on Define extraction Criteria
+                2. This will open the expression page
+                    a. Under Source click on $OrderNumber and drag and drop to the Expression box, located on the right side 
+            c. Repeat for each Identifier you wish to map.
+Once Integration has been mapped to the Milestone and Indentifier , it's time to change the Draft Model into a Configured State <br />
 ### Configured State
 
     A. 
@@ -43,7 +55,8 @@ Now your turn to try!
 ## Excercise 2
  You will map several Milestones to an existing integration, you will move your draft into a configured state and then active state. 
 
-### Task 1: Map Milestones
+### Task 1: Map Milestone
+
 
      
 ### Task 2: Draft to Configured State
