@@ -6,11 +6,23 @@ The Lab will cover how to add and map indicators to the existing draft model.
 
  Estimated Lab Time: 15 minutes
 
-## About Indicators
+## Learning Objectives
+In this lab, you will lean how to create the following:
+*   Edit Draft Model
+*   Create an Indicator
+*   Add Measure to Indicator
+*   Select Data Type for Indicator
 
 Indicators represent metrics that are unique to a business process, and are extracted when milestones are passed in a business process implementation. 
 
-An indicator can be mapped to one or more milestones. Mapping an indicator to multiple milestones allows the value of the indicator to change during the execution of a business process if necessary. 
+
+### Sample of how to Define an Indicator
+
+    A. On the Models page, Click the name or Edit (pencil icon) of the model for which you want to crate indicators. There are two ways to create an Indicator, oneis going the Milestone page or going to Indicators page. In our sample, we will be doing the indicator's page. 
+        1. Click on <Indicators> Tab (located between the Identier and Alerts tab)
+        You will notice that the page will say "You have no dimensions or measures"
+        2. Read the following to see how to add Measures or Dimensions
+        
 
 There are two types of indicators, Measures and Dimensions, that can be used. 
 
@@ -18,12 +30,28 @@ Measures, icon is a gastank, are numerical values that can be used by mathematic
 
 Dimensions, icon is blocks provide a type of grouping and categorization of business transactions (instances), allowing for slicing and dicing of aggregate integration measures. 
 
-## Learning Objectives
-In this lab, you will lean how to create the following:
-*   Edit Draft Model
-*   Create an Indicator
-*   Add Measure to Indicator
-*   Select Data Type for Indicator
+### Sample of Measures
+
+    A. Measures
+        1. Click on Measures <Gastank> Tab 
+        2. Enter the Measure Name
+        3. Enter the measure description, this will expand the field area
+        4. From the Milestone dropdown select the Milestone         
+        5. Select Data Type from dropdown (String, Integer,Float, or Decimal)
+        6. Filterable: Mark the box if you want to use the indicator as filter criteria in dashboards
+        
+### Sample of Dimensions
+
+    A. Dimensions
+        1. Click on Dimensions <blocks> Tab 
+        2. Enter the Dimensions Name
+        3. Enter the Dimensions description, this will expand the field area
+        4. From the Milestone dropdown select the Milestone         
+        5. Select Data Type from dropdown (String, Integer,Float, or Decimal)
+        6. Filterable: Mark the box if you want to use the indicator as filter criteria in dashboards
+
+An indicator can be mapped to one or more milestones. Mapping an indicator to multiple milestones allows the value of the indicator to change during the execution of a business process if necessary.
+
 
 ## Excercise 3
 
