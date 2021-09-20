@@ -3,8 +3,7 @@
 ## Introduction
 The Lab will cover how to build a simple model by reading the learning objectives, participating in an excercise and reviewing the solution tab.
 
-Estimated Lab Time: 15 minutes`
-
+Estimated Lab Time: 15 minutes
 
 More info on Insight Models can be found [here](https://docs.oracle.com/en/cloud/paas/integration-cloud/user-int-insight-oci/work-models-integration-insight.html).
 

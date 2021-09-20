@@ -1,4 +1,4 @@
-# Learning Objective 2: Indicators
+# Learning Objective 3: Indicators
 
 ## Introductions
 
@@ -25,7 +25,7 @@ In this lab, you will lean how to create the following:
 *   Add Measure to Indicator
 *   Select Data Type for Indicator
 
-## Excercise 2
+## Excercise 3
 
 In the prior excercise we created a draft model for a business process that tracks an order. However, what occurs if the value of an indicator changes such as when discounts are applied? 
 
