@@ -24,7 +24,7 @@ As part of the mapping process, you must also define extraction criteria for the
             b. Drag and drop the related criteria from the left to your Milestone
                 1. Select from dropdown "On Entry" or "On Exit"
             c. Repeat for each Milestone you wish to map.
-### Map a Indentifier
+### Map an Indentifier
     A. Click your Indentifier, this will expand the view area.   
         1. Under mappings you will click on "Open mapped integration to define extraction criteria" 
         2. This will open the Integrations, that was previously used, for you to map 
