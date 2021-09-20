@@ -75,6 +75,6 @@ Now your turn to try!
 
 
 ## Summary
-Great job creating your Draft Model.<br />
+Great job mapping and activating your Model.<br />
 
 You may now [proceed to the next lab](#next).
