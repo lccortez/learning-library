@@ -34,15 +34,8 @@ Using the hamburger ![hamburger](images/hamburgericon.png), located on top left 
 
 Click **Insight** ![insighticon](images/insighticon.png) to access the Oracle Integration Insight commands of Consoles or Models.
 
-
-
-
 This concludes this lab named Oracle Insight Navigation. You may now [proceed to the next lab](#next). Create Model
 
-*This is the "fold" - below items are collapsed by default*
-
-
-*At the conclusion of the lab add this statement: Note how you can link to whatever lab follows by using #next as the target*
 You may now [proceed to the next lab](#next).
 
 ## Want to Learn More
@@ -53,4 +46,4 @@ You may now [proceed to the next lab](#next).
 ## Acknowledgements
 * **Author** - <Lucy Cortez, Product Enablement Manager, OIC>
 * **Contributors** -  Nathan Angstadt, Senior Director, Oracle Integration Product Management
-* **Last Updated By/Date** - <Lucy Cortez, July 2021>
+* **Last Updated By/Date** - <Lucy Cortez, August 2021>
