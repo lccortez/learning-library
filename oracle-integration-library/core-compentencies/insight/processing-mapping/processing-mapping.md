@@ -33,27 +33,32 @@ As part of the mapping process, you must also define extraction criteria for the
                 1. Click on Define extraction Criteria
                 2. This will open the expression page
                     a. Under Source click on $OrderNumber and drag and drop to the Expression box, located on the right side 
-            c. Repeat for each Identifier you wish to map.
+            c. you may click "Validate" to confirm its readiness to use or click "Close" to returne to the integration mapping page.
+        4.  Repeat for each Identifier you wish to map.
+        5. Click Save, this will return you to the model
+        
 Once Integration has been mapped to the Milestone and Indentifier , it's time to change the Draft Model into a Configured State <br />
 ### Configured State
 
-    A. 
-    B. 
+    A. Click "Save" and you will receive a confirmation box stating "Succesfully saved the changes"
+    B. Exit and return to your Models listing. You will now see your Status as "Configured"
 
 Activating a Model allows it to be tested or used. Active models showcase status of a green dot that says "Activated". <br />
 ### Activate Model
 
-    A.  C
-        1. 
-        2. 
-        3. Click <Save> on the upper right corner
+    A.  At the Model's list page locate your Model
+        1. Hover your mouse over the Last Updated Date and 3 buttons will appear
+        2. Click on the center button named "Activate"
+        3. Display window will appear click "Activate"
+        4. This may take a few minutes to generate or you may click the refresh symbol
+        5. Status will now display a green dot and word "Activated"
 
 When a business process implementation spans more than one integration or process, or both, you must assign the model's unique instance identifier to mapped milestones to establish the correlation between the actions in the same instance of the business process and extract the unique instance identifier value when the specified milestone is passed. <br />
 
 Now your turn to try!
 
 ## Excercise 2
- You will map several Milestones to an existing integration, you will move your draft into a configured state and then active state. 
+ You will map your Milestones and Indentifier to an existing integration, you will move your draft into a configured state and then active state. 
 
 ### Task 1: Map Milestone
 
