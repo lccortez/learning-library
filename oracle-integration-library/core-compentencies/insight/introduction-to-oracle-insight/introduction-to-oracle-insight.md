@@ -47,19 +47,15 @@ In this workshop, you will:
 1.  Introduction to Oracle Insight
 2.  Key Concepts
 3.  Lab Preparation
-4.  Navigation - Layout - Commands
-5.  SLA
-6.  Create a Model    
-7.  Define a Milestone
-8.  Integration mapping
-9.  Create Indicators
-10. Processing (mapping)
-11. Identifier Basics
-12. Define an Alert
-13. Console
-14. Embedding
-15. Roles and Personas
-
+4.  Oracle Insight Navigation
+5.  Creat a Model
+6.  Process Mapping    
+7.  Create Indicators
+8.  Define an Alert
+9.  SLA
+10. Console
+11. Embedding
+12. Roles and Personas
 
 ## Workshop Prerequisites
 
