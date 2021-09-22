@@ -86,7 +86,7 @@ This concludes this lab. You may now [proceed to the next lab](#next)
 ## Want to Learn More
 
 * [https://docs.oracle.com/en/cloud/paas/integration-cloud/index.html](http://docs.oracle.com)
-* https://docs.oracle.com/en/cloud/paas/integration-cloud/integration-insight.html](http://docs.oracle.com)
+* [https://docs.oracle.com/en/cloud/paas/integration-cloud/integration-insight.html](http://docs.oracle.com)
 
 ## Acknowledgements
 * **Author** - <Lucy Cortez, Product Enablement Manager, OIC>
