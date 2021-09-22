@@ -24,7 +24,9 @@ Above that you will see the Import button or Create button.
 #### Consoles
 Click Consoles to view consoles. Consoles are  created once you activate a model. You will see the Name of the console, its Status and the Status Last Updated date/timestamp.
 #### Dashboards
-Open Dashboards via clicking on a Console name to open its related Dashboard. In the Dashboards, starting left to right, you will see the search tool, filter tool, All dropdown (where you can locate preconfigured or create a custom Dashboard), Rearrange Dashboard, Embed Dashboard, Search Order Number, View All, Purge Console Data, and Refresh. Top right side, you will see the Console Manifest, Import, Create and the three dots is for the Details information. Lastly, you will see blocks with the dashboards displays as built within the model.   
+Open Dashboards via clicking on a Console name to open its related Dashboard. 
+In the Dashboards, starting left to right, you will see the search tool, filter tool, All Dropdown (where you can locate preconfigured or create a custom Dashboard), Rearrange Dashboard, Embed Dashboard, Search Order Number, View All, Purge Console Data, and Refresh. 
+Top right side, you will see the Console Manifest, Import, Create and the three dots is for the Details information. Lastly, you will see blocks with the dashboards displays as built within the model.   
 ### Lab Agenda
 * Access Insight
 
