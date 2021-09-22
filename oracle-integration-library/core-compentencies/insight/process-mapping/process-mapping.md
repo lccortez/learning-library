@@ -58,20 +58,23 @@ When a business process implementation spans more than one integration or proces
 Now your turn to try!
 
 ## Excercise 2
- You will map your Milestones and Indentifier to an existing integration, you will move your draft into a configured state and then active state. 
+ You will map your Milestones and Indentifier to an existing integration. The Integration you will use is called Order Processing Lab. You will move your draft model into a configured model state and then active model state. 
 
 ### Task 1: Map Milestone
-
-
+Accessing your draft model, go to Milestones. You will map 2 Milestones and 2 Indentiers.
+Let's start with the Milestones. Map your Order Received Milestone "On Exit" event to the "PrepareOrderReceived" activity. Map your Order Completed Milestone "On Exit" event to the "PrepareOrderCompleted" activity. Now onto the Identifiers. Set your Order Number Identifier Extraction Criteria for the Order Received Milestone to $OrderNumber.
+Set your Order Number Identifier Extraction Criteria for the Order Completed Milestone to $OrderNumber. Go to Task 2 in order to save your work.
      
 ### Task 2: Draft to Configured State
-
+You may now click "Save" and ensure you receive the message box ""Succesfully saved the changes" and close your model. You should now see say configured. To activate the model, go to Task 3.
     
 ### Task 3: Configured State to Active State
+Access your Insight Models, locate your model and ensure it says Configured. Now Activate your model. You will recieed an Activation Confirmation, click Activate.
 
+Congratulation on completing the Process Mapping. The next excercise will test the mapping and showcase the Console/Dashboards. 
 
 ## Solution
-
+>>>>>
 
 
 ## Summary
