@@ -34,16 +34,16 @@ Using the hamburger ![hamburger](images/hamburgericon.png), located on top left 
 
 Click **Insight** ![insighticon](images/insighticon.png) to access the Oracle Integration Insight commands of Consoles or Models.
 
-This concludes this lab named Oracle Insight Navigation. You may now [proceed to the next lab](#next). Create Model
+This concludes this lab named Oracle Insight Navigation. You may now [proceed to the next lab](#next). Create a Model.
 
-You may now [proceed to the next lab](#next).
+
 
 ## Want to Learn More
 
 * [https://docs.oracle.com/en/cloud/paas/integration-cloud/index.html](http://docs.oracle.com)
-* https://docs.oracle.com/en/cloud/paas/integration-cloud/integration-insight.html](http://docs.oracle.com)
+* [https://docs.oracle.com/en/cloud/paas/integration-cloud/integration-insight.html](http://docs.oracle.com)
 
 ## Acknowledgements
-* **Author** - <Lucy Cortez, Product Enablement Manager, OIC>
+* **Author** - Lucy Cortez, Product Enablement Manager, OIC
 * **Contributors** -  Nathan Angstadt, Senior Director, Oracle Integration Product Management
-* **Last Updated By/Date** - <Lucy Cortez, August 2021>
+* **Last Updated By/Date** - Lucy Cortez, August 2021
