@@ -42,6 +42,7 @@ Testing your mappings is vital. Ensuring that the mapped item function correctly
         5. Click Save, this will return you to the model
         
 Once Integration has been mapped to the Milestone and Indentifier , it's time to change the Draft Model into a Configured State <br />
+
 ### Configured State
 
     A. Click "Save" and you will receive a confirmation box stating "Succesfully saved the changes"
