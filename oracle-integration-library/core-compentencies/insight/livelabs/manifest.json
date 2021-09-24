@@ -37,7 +37,8 @@
         {
             "title": "Process Mapping Test",
             "filename": "../process-mapping-test/process-mapping-test.md"
-        },{
+        },
+        {
             "title": "Create Indicators",
             "filename": "../create-indicators/create-indicators.md"
         },

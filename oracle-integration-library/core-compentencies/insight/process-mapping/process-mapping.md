@@ -14,6 +14,7 @@ In this lab, you will learn how to create the following:
 - Acivate your Insight Model
 
 Mapping milestones involves identifying execution points that best represent when a milestone has been passed. 
+
 As part of the mapping process, you must also define extraction criteria for the unique instance identifier. Extraction criteria define the rules to extract information from runtime messages, and is expressed using XPath expressions. Before you can activate a model, the extraction criteria must be defined. 
 ### Map a Milestone
     A. Click your Milestone name, this will expand the view area.   
