@@ -2,29 +2,15 @@
 
 ## Introduction
 
-The Lab will cover how to add an alert to your Draft Model
+The Lab will cover how to add an alert to your Model. 
 
 Estimated Lab Time: 5 minutes
-
-## About Alerts
-The Alert .....
- <br />
-
-The Alert....
- <br />
-
-
 
 ## Learning Objectives
 In this lab, you will learn how to create the following:
 - Add an Alert
 - Test the Alert
-
-
-## Excercise
- 
-
-### Task 1: Add an Alert
+### How to Add an Alert
     A. Open Oracle Insight
         1. Click on <Models>
         2. Click on <Create>
@@ -50,6 +36,11 @@ In this lab, you will learn how to create the following:
                 i. Note: The selected data type must match the data type of the value that will be extracted at runtime, as defined by the associated identifier extraction criteria that you will specify later. Otherwise, the identifier will show an empty value in Insight dashboards.
             c. Click <Save>
         3. Click <Save> on the upper right corner
+
+## Excercise
+ 
+
+
 
 
 ## Solution

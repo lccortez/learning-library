@@ -71,7 +71,7 @@ Let's start with the Milestones. Map your Order Received Milestone "On Exit" eve
 Set your Order Number Identifier Extraction Criteria for the Order Completed Milestone to $OrderNumber. Go to Task 2 in order to save your work.
      
 ### Task 2: Draft to Configured State
-You may now click "Save" and ensure you receive the message box ""Succesfully saved the changes" and close your model. You should now see say configured. To activate the model, go to Task 3.
+You may now click "Save" and ensure you receive the message box ""Succesfully saved the changes" and close your model. You should now see it as Configured. To activate the model, go to Task 3.
     
 ### Task 3: Configured State to Active State
 Access your Insight Models, locate your model and ensure it says Configured. Now Activate your model. You will recieed an Activation Confirmation, click Activate.

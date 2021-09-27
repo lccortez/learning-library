@@ -75,11 +75,6 @@ See **[Editing the Edition, License Type, Message packs and Custom Endpoint of a
 
 *Note: If you have a **Free Trial** account, when your Free Trial expires your account will be converted to an **Always Free** account. You will not be able to conduct Free Tier workshops unless the Always Free environment is available. **[Click here for the Free Tier FAQ page.](https://www.oracle.com/cloud/free/faq.html)***
 
-
-
-*This is the "fold" - below items are collapsed by default*
-
-
 This concludes this lab. You may now [proceed to the next lab](#next)
 
 
@@ -89,6 +84,6 @@ This concludes this lab. You may now [proceed to the next lab](#next)
 * [https://docs.oracle.com/en/cloud/paas/integration-cloud/integration-insight.html](http://docs.oracle.com)
 
 ## Acknowledgements
-* **Author** - <Lucy Cortez, Product Enablement Manager, OIC>
-* **Contributors** -  <Ravi Chanblani, Product Manager - Integration, OIC> 
-* **Last Updated By/Date** - <Lucy Cortez, July 2021>
+* **Author** - <Lucy Cortez Product Enablement Manager OIC>
+* **Contributors** -  <Ravi Chanblani Product Manager - Integration OIC> 
+* **Last Updated By/Date** - <Lucy Cortez July 2021>
