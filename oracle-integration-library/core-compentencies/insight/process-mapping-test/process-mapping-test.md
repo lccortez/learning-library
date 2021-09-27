@@ -60,7 +60,8 @@ Now your turn to try!
  You will map your Milestones and Indentifier to an existing integration. The Integration you will use is called Order Processing Lab. You will move your draft model into a configured model state and then active model state. 
 
 ### Task 1: Test Mapping
-Open the "Order Processing Lab" in Test. Either use the file named exercise-first-instance.json or copy the following informaiton:
+Open the "Order Processing Lab" in Test. Either use the file named exercise-first-instance.json or copy the following information:
+
  {
 "orderId": "1000",
 "product": "Laptop",
@@ -69,6 +70,7 @@ Open the "Order Processing Lab" in Test. Either use the file named exercise-firs
 "discount": 0,
 "country": "US"
 }
+
 
 You will need to open the Console page to verify.     
 ### Task 2: Console View
