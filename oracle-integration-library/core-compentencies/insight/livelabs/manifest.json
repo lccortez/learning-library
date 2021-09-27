@@ -43,16 +43,16 @@
             "filename": "../create-indicators/create-indicators.md"
         },
         {
-            "title": "Define an Alert",
-            "filename": "../define-an-alert/define-an-alert.md"
+            "title": "Console",
+            "filename": "../console/console.md"
         },
         {
             "title": "SLA",
             "filename": "../sla/sla.md"
         },
         {
-            "title": "Console",
-            "filename": "../console/console.md"
+            "title": "Define an Alert",
+            "filename": "../define-an-alert/define-an-alert.md"
         },
         {
             "title": "Embedding",
