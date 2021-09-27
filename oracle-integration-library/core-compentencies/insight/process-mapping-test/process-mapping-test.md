@@ -1,7 +1,7 @@
 # Learning Objective 3: Process Integration Test
 
 ## Introduction
-The Lab will cover how to test the process integration mapped milestones/indentiers and view the test in the Insight Console
+The Lab will cover how to test the process integration mapped milestones/indentiers. How to view the test in the Insight Console and some of the standard dashboard views.
 
 Estimated Lab Time: 10 minutes
 
@@ -9,11 +9,33 @@ More info on Insight Models can be found [here](https://docs.oracle.com/en/cloud
 
 ## Learning Objectives
 In this lab, you will learn how to create the following:
-- Test Order Process Lab integration
-- Review Console 
-- Review Standard Dashboards
+- Console Views
+- Standard Dashboards
+- Map Testing 
 
+Insight automatically creates and associated Console when a model, with difined business processes, has been activated.
+
+The Consoles page shows the status of all business processes and includes a high-level visualization of the metrics collected over the past day for all activated business processes. 
+
+Conoles can be accessed either form the Oracle Integration navigational pane or from the Insight tile on the Oracle Integration home page. Consoles names are the same as the Model name or Business Process that was mapped.
+
+Double-click on a dashboard to open the Business Transaction Details dashboard for that dashboard. The following dashboards support drilling down into the transaction details:
+* Passed Milestones: Double-click any milestone bar to show the business transactions (instances) that have passed that milestone.
+
+* Milestones Summary: Double-click any milestone bubble to show the business transactions (instances) associated with the milestone.
+
+* Active Transactions: Double-click any business transaction bar to show the active business transactions. Because a business transaction state may change between the time the dashboard displayed and the time you clicked a bar, you may not see the same business transactions on the Business Transaction Details dashboard.
+
+* Transaction Errors: Double-click any slice on the pie chart to show the business transactions in Error state.
+
+* Avg. Transaction Completion Time: Double-click any bubble on the bubble chart to show the business transactions in Successful or Failed state, depending on the bubble you clicked.
+### Access the Console
+    A. Go to Integration Insight    
+        1. Click Insight
+        2. Click Console
+        3. Double Click the Console to reach the Dashboards
 Testing your mappings is vital. Ensuring that the mapped item function correctly and provide needed information in the console.  
+
 ### Map Testing
     A.  Access Integrations  
         1. Hover over the Status and the Run icon (forward arrow) will appear
@@ -28,12 +50,7 @@ Testing your mappings is vital. Ensuring that the mapped item function correctly
             a. Activity stream will showcase in Ascending order and will show green if succesful
             b. Activity stream will showcase yellow or red if unsuccesful
 
-### Access the Console
-    A. Go to Integration Insight    
-        1. Click Insight
-        2. Click Console
-        3. You will see your Identifier on the right
-            
+        
         
 
 
@@ -54,13 +71,12 @@ Open the "Order Processing Lab" in Test. Either use the file named exercise-firs
 }
 
 You will need to open the Console page to verify.     
-### Task 2: Draft to Configured State
-You may now click "Save" and ensure you receive the message box ""Succesfully saved the changes" and close your model. You should now see it as Configured. To activate the model, go to Task 3.
+### Task 2: Console View
+Console >>>>>
     
-### Task 3: Configured State to Active State
-Access your Insight Models, locate your model and ensure it says Configured. Now Activate your model. You will recieed an Activation Confirmation, click Activate.
-
-Congratulation on completing the Process Mapping. The next excercise will test the mapping and showcase the Console/Dashboards. 
+### Task 3: Dashboard View
+Dashboard >>>>>
+Congratulation on completing the Process Mapping Test and Console View.
 
 ## Solution
 >>>>>
