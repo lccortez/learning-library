@@ -62,14 +62,14 @@ Now your turn to try!
 ### Task 1: Test Mapping
 Open the "Order Processing Lab" in Test. Either use the file named exercise-first-instance.json or copy the following information:
 
- {
-"orderId": "1000",
-"product": "Laptop",
-"quantity": 5,
-"unitPrice": 1500,
-"discount": 0,
-"country": "US"
-}
+ {  <br />
+"orderId": "1000",  <br />
+"product": "Laptop", <br />  
+"quantity": 5, <br />
+"unitPrice": 1500,  <br />
+"discount": 0,  <br />
+"country": "US"  <br />
+} <br />
 
 
 You will need to open the Console page to verify.     
