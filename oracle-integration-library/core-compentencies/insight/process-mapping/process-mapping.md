@@ -1,7 +1,7 @@
-# Learning Objective 2: Process Integration
+# Learning Objective 2: Associate a Model 
 
 ## Introduction
-The Lab will cover how to map an Integration to a Milestone
+The Lab will cover how to map an Integration to a Milestone, Identifier and Activate a Model.
 
 Estimated Lab Time: 10 minutes
 
@@ -14,7 +14,9 @@ In this lab, you will learn how to create the following:
 - Activate your Insight Model
 First practice the steps to familiarize yourself with the commands and then do the exercise.
 
-Mapping milestones involves identifying execution points that best represent when a milestone has been passed. 
+You can associate an Insight model to a business process implementation in Integrations.
+
+To associate a model to a business process implementation in Integrations, you must map milestones to Integrations actions, in collaboration with a Business/User Analyst who defines the milestones in Insight.Mapping milestones involves identifying execution points that best represent when a milestone has been passed. 
 
 As part of the mapping process you must also define extraction criteria for the unique instance identifier. Extraction criteria define the rules to extract information from runtime messages, and is expressed using XPath expressions. Before you can activate a model, the extraction criteria must be defined. 
 ### How to Map a Milestone
@@ -67,10 +69,10 @@ Accessing your draft model, go to Milestones. You will map 2 Milestones and 2 In
 Let's start with the Milestones. Map your Order Received Milestone "On Exit" event to the "PrepareOrderReceived" activity. Map your Order Completed Milestone "On Exit" event to the "PrepareOrderCompleted" activity. 
 
 Now onto the Identifiers. Set your Order Number Identifier Extraction Criteria for the Order Received Milestone to $OrderNumber.
-Set your Order Number Identifier Extraction Criteria for the Order Completed Milestone to $OrderNumber. Go to Task 3 in order to save your work.
+Set your Order Number Identifier Extraction Criteria for the Order Completed Milestone to $OrderNumber. Go to Task 2 in order to save your work.
      
 ### Task 2: Draft to Configured State
-You may now click "Save" and ensure you receive the message box ""Succesfully saved the changes" and close your model. You should now see say configured. To activate the model, go to Task 3.
+You may now click "Save" and ensure you receive the message box ""Succesfully saved the changes" and close your model. To activate the model, go to Task 3.
     
 ### Task 3: Configured State to Active State
 Access your Insight Models, locate your model and ensure it says Configured. Now Activate your model. You will recieed an Activation Confirmation, click Activate.
