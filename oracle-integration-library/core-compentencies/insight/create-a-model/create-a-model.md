@@ -48,7 +48,7 @@ Every Model must have a unique instance Identifier defined. This identifier desc
 
 When a business process implementation spans more than one integration or process, or both, you must assign the model's unique instance identifier to mapped milestones to establish the correlation between the actions in the same instance of the business process and extract the unique instance identifier value when the specified milestone is passed. <br />
 
-Let's get you to create you first Insight Model! In the excercise there are three tasks that will need to be followed, in order, to accomplish excercise 1. 
+Let's get you to create your first Insight Model! In the exercise there are 3 tasks that will need to be followed, in order, to accomplish exercise 1. 
 
 ## Exercise
  You will create an Insight Model with 2 Milestones, an Initial and a Terminal, and an identifier. Your model will be kept in Draft form thru several iterations. 
