@@ -14,7 +14,7 @@ In this lab, you will learn how to create the following:
 - Activate your Insight Model
 First practice the steps to familiarize yourself with the commands and then do the exercise.
 
-You can associate an Insight model to a business process implementation in Integrations.
+You can associate an Insight Model to a business process implementation in Integrations.
 
 To associate a model to a business process implementation in Integrations, you must map milestones to Integrations actions, in collaboration with a Business/User Analyst who defines the milestones in Insight.Mapping milestones involves identifying execution points that best represent when a milestone has been passed. 
 

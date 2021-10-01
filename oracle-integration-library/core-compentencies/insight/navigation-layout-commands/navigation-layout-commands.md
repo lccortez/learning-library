@@ -32,7 +32,7 @@ Top right side, you will see the Console Manifest, Import, Create and the three 
 
 Lab 1.
 
-Using the hamburger ![hamburger](images/hamburgericon.png), located on top left hand side of the screen, this will open the Oracle Integration dropdown menu.
+Using the **Hamburger** ![hamburger](images/hamburgericon.png), located on top left hand side of the screen, this will open the Oracle Integration dropdown menu.
 
 Click **Insight** ![insighticon](images/insighticon.png) to access the Oracle Integration Insight commands of Consoles or Models.
 
