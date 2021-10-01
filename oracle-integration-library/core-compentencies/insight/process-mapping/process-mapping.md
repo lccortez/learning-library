@@ -1,7 +1,7 @@
 # Learning Objective 2: Process Integration
 
 ## Introduction
-The Lab will cover how to map an integrations to a Milesone
+The Lab will cover how to map an Integration to a Milestone
 
 Estimated Lab Time: 10 minutes
 
@@ -9,14 +9,15 @@ More info on Insight Models can be found [here](https://docs.oracle.com/en/cloud
 
 ## Learning Objectives
 In this lab, you will learn how to create the following:
-- Map an Intergration to a Milestone
+- Map an Integration to a Milestone
 - Modify your Draft into a Configured state
-- Acivate your Insight Model
+- Activate your Insight Model
+First practice the steps to familiarize yourself with the commands and then do the exercise.
 
 Mapping milestones involves identifying execution points that best represent when a milestone has been passed. 
 
-As part of the mapping process, you must also define extraction criteria for the unique instance identifier. Extraction criteria define the rules to extract information from runtime messages, and is expressed using XPath expressions. Before you can activate a model, the extraction criteria must be defined. 
-### Map a Milestone
+As part of the mapping process you must also define extraction criteria for the unique instance identifier. Extraction criteria define the rules to extract information from runtime messages, and is expressed using XPath expressions. Before you can activate a model, the extraction criteria must be defined. 
+### How to Map a Milestone
     A. Click your Milestone name, this will expand the view area.   
         1. Under mappings you will click on "Map Milestones" 
         2. This will open the Integrations, either search or scroll to find your integration
@@ -25,29 +26,29 @@ As part of the mapping process, you must also define extraction criteria for the
             b. Drag and drop the related criteria from the left to your Milestone
                 1. Select from dropdown "On Entry" or "On Exit"
             c. Repeat for each Milestone you wish to map.
-### Map an Indentifier
+### How to Map an Identifier
     A. Click your Indentifier, this will expand the view area.   
         1. Under mappings you will click on "Open mapped integration to define extraction criteria" 
         2. This will open the Integrations, that was previously used, for you to map 
         3. You will see your Identifier on the right
-            a. Under Milstone you will see Extraction Criteria
+            a. Under Milestone you will see Extraction Criteria
                 1. Click on Define extraction Criteria
                 2. This will open the expression page
                     a. Under Source click on $OrderNumber and drag and drop to the Expression box, located on the right side 
-            c. you may click "Validate" to confirm its readiness to use or click "Close" to returne to the integration mapping page.
+            c. You may click "Validate" to confirm its readiness to use or click "Close" to return to the integration mapping page.
         4.  Repeat for each Identifier you wish to map.
         5. Click Save, this will return you to the model
         
-Once Integration has been mapped to the Milestone and Indentifier , it's time to change the Draft Model into a Configured State <br />
-### Configured State
+Once Integration has been mapped to the Milestone and Indentifier, it's time to change the Draft Model into a Configured State <br />
+### How to Place Draft Model into Configured State
 
     A. Click "Save" and you will receive a confirmation box stating "Succesfully saved the changes"
     B. Exit and return to your Models listing. You will now see your Status as "Configured"
 
 Activating a Model allows it to be tested or used. Active models showcase status of a green dot that says "Activated". <br />
-### Activate Model
+### How to Activate a Model
 
-    A.  At the Model's list page locate your Model
+    A.  At the Model's list page, locate your Model
         1. Hover your mouse over the Last Updated Date and 3 buttons will appear
         2. Click on the center button named "Activate"
         3. Display window will appear click "Activate"
@@ -58,13 +59,15 @@ When a business process implementation spans more than one integration or proces
 
 Now your turn to try!
 
-## Excercise 2
+## Exercise 2
  You will map your Milestones and Indentifier to an existing integration. The Integration you will use is called Order Processing Lab. You will move your draft model into a configured model state and then active model state. 
 
-### Task 1: Map Milestone
+### Task 1: Map Milestones/Identifiers
 Accessing your draft model, go to Milestones. You will map 2 Milestones and 2 Indentiers.
-Let's start with the Milestones. Map your Order Received Milestone "On Exit" event to the "PrepareOrderReceived" activity. Map your Order Completed Milestone "On Exit" event to the "PrepareOrderCompleted" activity. Now onto the Identifiers. Set your Order Number Identifier Extraction Criteria for the Order Received Milestone to $OrderNumber.
-Set your Order Number Identifier Extraction Criteria for the Order Completed Milestone to $OrderNumber. Go to Task 2 in order to save your work.
+Let's start with the Milestones. Map your Order Received Milestone "On Exit" event to the "PrepareOrderReceived" activity. Map your Order Completed Milestone "On Exit" event to the "PrepareOrderCompleted" activity. 
+
+Now onto the Identifiers. Set your Order Number Identifier Extraction Criteria for the Order Received Milestone to $OrderNumber.
+Set your Order Number Identifier Extraction Criteria for the Order Completed Milestone to $OrderNumber. Go to Task 3 in order to save your work.
      
 ### Task 2: Draft to Configured State
 You may now click "Save" and ensure you receive the message box ""Succesfully saved the changes" and close your model. You should now see say configured. To activate the model, go to Task 3.
@@ -72,7 +75,7 @@ You may now click "Save" and ensure you receive the message box ""Succesfully sa
 ### Task 3: Configured State to Active State
 Access your Insight Models, locate your model and ensure it says Configured. Now Activate your model. You will recieed an Activation Confirmation, click Activate.
 
-Congratulation on completing the Process Mapping. The next excercise will test the mapping and showcase the Console/Dashboards. 
+Congratulation on completing the Process Mapping! The next exercise will test the mapping and showcase the Console/Dashboards. 
 
 ## Solution
 >>>>>
