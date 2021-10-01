@@ -49,7 +49,7 @@ Testing your mappings is vital. Ensuring that the mapped item function correctly
 Now your turn to try!
 
 ## Excercise 2
- You will map your Milestones and Indentifier to an existing integration. The Integration you will use is called Order Processing Lab. You will move your draft model into a configured model state and then active model state. 
+ You will test you mapping and then view the results of the order in the created Console and Dashboard. 
 
 ### Task 1: Test Mapping
 Open the "Order Processing Lab" in Test. Either use the file named exercise-first-instance.json 
@@ -79,6 +79,6 @@ Congratulation on completing the Process Mapping Test and Console View.
 
 
 ## Summary
-Great job mapping and activating your Model.<br />
+Great job mapping and activating and testing your Model.<br />
 
 You may now [proceed to the next lab](#next).
