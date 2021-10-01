@@ -21,13 +21,9 @@ Conoles can be accessed either form the Oracle Integration navigational pane or 
 
 Double-click on a dashboard to open the Business Transaction Details dashboard for that dashboard. The following dashboards support drilling down into the transaction details:
 * Passed Milestones: Double-click any milestone bar to show the business transactions (instances) that have passed that milestone.
-
 * Milestones Summary: Double-click any milestone bubble to show the business transactions (instances) associated with the milestone.
-
 * Active Transactions: Double-click any business transaction bar to show the active business transactions. Because a business transaction state may change between the time the dashboard displayed and the time you clicked a bar, you may not see the same business transactions on the Business Transaction Details dashboard.
-
 * Transaction Errors: Double-click any slice on the pie chart to show the business transactions in Error state.
-
 * Avg. Transaction Completion Time: Double-click any bubble on the bubble chart to show the business transactions in Successful or Failed state, depending on the bubble you clicked.
 ### Access the Console
     A. Go to Integration Insight    
@@ -50,10 +46,6 @@ Testing your mappings is vital. Ensuring that the mapped item function correctly
             a. Activity stream will showcase in Ascending order and will show green if succesful
             b. Activity stream will showcase yellow or red if unsuccesful
 
-        
-        
-
-
 Now your turn to try!
 
 ## Excercise 2
@@ -64,7 +56,7 @@ Open the "Order Processing Lab" in Test. Either use the file named exercise-firs
 
  {  <br />
 "orderId": "1000",  <br />
-"product": "Laptop", <br />  
+"product": "Laptop", <br />
 "quantity": 5, <br />
 "unitPrice": 1500,  <br />
 "discount": 0,  <br />
