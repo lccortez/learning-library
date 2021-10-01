@@ -67,10 +67,11 @@ Download the [exercise-first-instance.json](files/exercise-first-instance.json?d
 
 You will need to open the Console page to verify.     
 ### Task 2: Console View
-Console >>>>>
+Access the Console to view your Concole named "My Order Process". Click on Console Manifest to view the names of the dashboards. You wil see both the dropdowns for the Dashboard names and the Filter Details which showcases the Milestones and the Identifier.
     
 ### Task 3: Dashboard View
-Dashboard >>>>>
+Review the 5 Dashboards named "Milestone Summary", "Passed Milestones", Active Business Transactions", "Business Transaction" Errors" and "Avg. Business tansaciton Completion Time". 
+
 Congratulation on completing the Process Mapping Test and Console View.
 
 ## Solution
