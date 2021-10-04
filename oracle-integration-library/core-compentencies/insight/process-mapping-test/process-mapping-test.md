@@ -17,7 +17,7 @@ Insight automatically creates and associated Console when a model, with difined 
 
 The Consoles page shows the status of all business processes and includes a high-level visualization of the metrics collected over the past day for all activated business processes. 
 
-Conoles can be accessed either form the Oracle Integration navigational pane or from the Insight tile on the Oracle Integration home page. Consoles names are the same as the Model name or Business Process that was mapped.
+Conoles can be accessed either fromm the Oracle Integration navigational pane or from the Insight tile on the Oracle Integration home page. Consoles names are the same as the Model name or Business Process that was mapped.
 
 Double-click on a dashboard to open the Business Transaction Details dashboard for that dashboard. The following dashboards support drilling down into the transaction details:
 * Passed Milestones: Double-click any milestone bar to show the business transactions (instances) that have passed that milestone.
@@ -35,6 +35,7 @@ Testing your mappings is vital. Ensuring that the mapped item function correctly
 ### Map Testing
     A.  Access Integrations  
         1. Hover over the Status and the Run icon (forward arrow) will appear
+            a. Select from dropdown the Operation you wish to test. 
         2. Click on the icon and message box will appear, click on the word "Test"
         3. Now you need to configure your request properties.
             a. Under the Request area, click on Tab named "Body" 
@@ -53,7 +54,7 @@ Now your turn to try!
 
 ### Task 1: Test Mapping
 Open the "Order Processing Lab" in Test. Either use the file named exercise-first-instance.json 
-Download the [exercise-first-instance.json](files/exercise-first-instance.json?download=1)or copy the following information:
+Download the [exercise-first-instance.json](files/exercise-first-instance.json?download=1) or copy the following information:
 
  {  <br />
 "orderId": "1000",  <br />
