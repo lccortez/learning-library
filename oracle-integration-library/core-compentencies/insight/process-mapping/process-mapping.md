@@ -75,7 +75,7 @@ Set your Order Number Identifier Extraction Criteria for the Order Completed Mil
 You may now click "Save" and ensure you receive the message box ""Succesfully saved the changes" and close your model. To activate the model, go to Task 3.
     
 ### Task 3: Configured State to Active State
-Access your Insight Models, locate your model and ensure it says Configured. Now Activate your model. You will recieed an Activation Confirmation, click Activate.
+Access your Insight Models, locate your model and ensure it says Configured. Now Activate your model by clicking Activate button. You will receive an Activation Confirmation box, click Activate. YOu will see a system response. 
 
 Congratulation on completing the Process Mapping! The next exercise will test the mapping and showcase the Console/Dashboards. 
 
