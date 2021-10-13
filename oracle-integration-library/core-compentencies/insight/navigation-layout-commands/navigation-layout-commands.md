@@ -22,7 +22,7 @@ Click the hamburger ![hamburger](./images/hamburger.png " ") at the top left han
 
 #### Models
 Click on Models ![model](./images/model.png " ") to commence creating or modify models.
-![modelpage](./images/modelpage.png " ")
+![modelpage](./images/modelpage.jpg " ")
 In Models, starting left to right, you will see the search tool, filter tool, refresh, list horizontal, or list by block. Above that you will see the Import button or Create button.
 
 
