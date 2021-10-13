@@ -32,11 +32,13 @@ Click Consoles ![console](./images/console.png " ")to view consoles.
 ![consolepage](./images/consolepage.png " ")
 In Consoles, starting left to right, you will see the search tool, filter tool, the number of how many consoles are listed, refresh, list horizontal, or list by block. 
 ![consolepage2](./images/consolepage2.png " ")
-Consoles are created once you activate a model and will have different icons next to the respective titles. You will see the Name, Favorite start, its Status, the Status Last Updated date/timestamp and Today's Business Transactions, which displays Active, Completed and Failed runs.
+Consoles are created once you activate a model and will have different icons next to the respective titles. You will see the Name, Favorite start, its Status, the Status Last Updated date/timestamp and Today's Business Transactions.
 
 #### Dashboards
+![Dashboards](./images/feb2021-opp-order-console.jpg " ")
 Open Dashboards via clicking on a Console name to open its related Dashboard. 
 In the Dashboards, starting left to right, you will see the search tool, filter tool, All Dropdown (where you can locate preconfigured or create a custom Dashboard), Rearrange Dashboard, Embed Dashboard, Search Order Number, View All, Purge Console Data, and Refresh. 
+
 Top right side, you will see the Console Manifest, Import, Create and the three dots is for the Details information. Lastly, you will see blocks with the dashboards displays as built within the model.   
 ### Lab Agenda
 * Access Insight
