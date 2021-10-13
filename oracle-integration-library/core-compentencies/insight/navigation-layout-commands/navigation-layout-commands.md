@@ -18,7 +18,7 @@ In this workshop, you will:
 
 ### Navigate
 #### Main Page
-Click the hamburger ![hamburger](./images/hamburger.png " ")at the top left hand site of the home screen. Click on the Insight and you will see Consoles and Models.
+Click the hamburger ![hamburger](./images/hamburger.png " ") at the top left hand site of the home screen. Click on the Insight and you will see Consoles and Models.
 
 #### Models
 Click on Models ![model](./images/model.png " ") to commence creating or modify models.
