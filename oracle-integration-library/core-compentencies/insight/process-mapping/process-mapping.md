@@ -86,6 +86,11 @@ Milestone solution will show as this:
 Identifiers solution will show as this:
 ![identifiersolution1](./images/identifiersolution1.jpg " ")
 
+Draft to Configured State will show as this:
+
+Activation will show as this:
+![activate](./images/activate.jpg " ")
+
 ## Summary
 Great job mapping and activating your Model.<br />
 
