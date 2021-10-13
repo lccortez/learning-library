@@ -10,6 +10,7 @@ Estimated Workshop Time: 5 Minutes
 The Integration Insight feature (commonly referred to as Insight) is located in home page of Oracle Integration.
 
 
+
 ### Workshop Objectives
 
 In this workshop, you will:
@@ -17,10 +18,12 @@ In this workshop, you will:
 
 ### Navigate
 #### Main Page
-Click the hamburger at the top left hand site of the home screen. Click on the Insight and you will see Consoles and Models.
+Click the hamburger ![hamburger](./images/hamburger.png " ")at the top left hand site of the home screen. Click on the Insight and you will see Consoles and Models.
 #### Models
-Click on Models to commence creating or modify models. In Models, starting left to right, you will see the search tool, filter tool, refresh, list horizontal, or list by block.
-Above that you will see the Import button or Create button.
+Click on Models ![model](./images/model.png " ") to commence creating or modify models.
+![modelpage](./images/modelpage.png " ")
+In Models, starting left to right, you will see the search tool, filter tool, refresh, list horizontal, or list by block. Above that you will see the Import button or Create button.
+
 #### Consoles
 Click Consoles to view consoles. Consoles are  created once you activate a model. You will see the Name of the console, its Status and the Status Last Updated date/timestamp.
 #### Dashboards
