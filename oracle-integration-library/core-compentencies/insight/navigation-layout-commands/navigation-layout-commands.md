@@ -18,20 +18,20 @@ In this workshop, you will:
 
 ### Navigate
 #### Main Page
-Click the hamburger ![hamburger](./images/hamburger.png " ") at the top left hand site of the home screen. Click on the Insight and you will see Consoles and Models.
+Click the hamburger ![hamburger](./images/hamburger.jpg " ") at the top left hand site of the home screen. Click on the Insight and you will see Consoles and Models.
 
 #### Models
-Click on Models ![model](./images/model.png " ") to commence creating or modify models.
+Click on Models ![model](./images/model.jpg " ") to commence creating or modify models.
 ![modelpage](./images/modelpage.jpg " ")
 In Models, starting left to right, you will see the search tool, filter tool, refresh, list horizontal, or list by block. Above that you will see the Import button or Create button.
 
 
 
 #### Consoles
-Click Consoles ![console](./images/console.png " ")to view consoles. 
-![consolepage](./images/consolepage.png " ")
+Click Consoles ![console](./images/console.jpg " ")to view consoles. 
+![consolepage](./images/consolepage.jpg " ")
 In Consoles, starting left to right, you will see the search tool, filter tool, the number of how many consoles are listed, refresh, list horizontal, or list by block. 
-![consolepage2](./images/consolepage2.png " ")
+![consolepage2](./images/consolepage2.jpg " ")
 Consoles are created once you activate a model and will have different icons next to the respective titles. You will see the Name, Favorite start, its Status, the Status Last Updated date/timestamp and Today's Business Transactions.
 
 #### Dashboards
