@@ -62,7 +62,7 @@ Open Insight and create your Draft Model. Name the Draft Model "My Order Process
 As taught, each Model needs an Initial and Terminal Milestone. For your Initial Milestone (Rocket Symbol), enter Milestone name "Order Received" and for the Description enter "My First Orders Received". For you Terminal Milestone (Finish Line Flag Symbol), Enter milestone name "Order Completed" and enter Milestone description "Orders Completed via System"; continue to Task 3 to add your Indentifer.
     
 ### Task 3: Create an Identifier
-Finish your Draft Model by creating an Identifier. The Identifier name is "Order Number", the Data Type is "String" and assign to "Order Received" and "Order Completed" Milestones.
+Finish your Draft Model by creating an Identifier. The Identifier name is  **Order Number**, the Data Type is **String** and assign to **Order Received** and **Order Completed** Milestones.
 Save and Close your Draft Model.
 
 
