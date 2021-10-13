@@ -86,4 +86,6 @@ Congratulation on completing the Process Mapping! The next exercise will test th
 ## Summary
 Great job mapping and activating your Model.<br />
 
+Need more help? Visit
+
 You may now [proceed to the next lab](#next).
