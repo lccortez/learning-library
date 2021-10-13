@@ -66,16 +66,16 @@ Now your turn to try!
 
 ### Task 1: Map Milestones/Identifiers
 Accessing your draft model, go to Milestones. You will map 2 Milestones and 2 Indentiers.
-Let's start with the Milestones. Map your Order Received Milestone "On Exit" event to the "PrepareOrderReceived" activity. Map your Order Completed Milestone "On Exit" event to the "PrepareOrderCompleted" activity. 
+Let's start with the Milestones. Map your Order Received Milestone **"On Exit** event to the **PrepareOrderReceived** activity. Map your Order Completed Milestone **On Exit** event to the **PrepareOrderCompleted** activity. 
 
-Now onto the Identifiers. Set your Order Number Identifier Extraction Criteria for the Order Received Milestone to $OrderNumber.
-Set your Order Number Identifier Extraction Criteria for the Order Completed Milestone to $OrderNumber. Go to Task 2 in order to save your work.
+Now onto the Identifiers. Set your Order Number Identifier Extraction Criteria for the Order Received Milestone to **$OrderNumber**.
+Set your Order Number Identifier Extraction Criteria for the Order Completed Milestone to **$OrderNumber**. Go to Task 2 in order to save your work.
      
 ### Task 2: Draft to Configured State
-You may now click "Save" and ensure you receive the message box ""Succesfully saved the changes" and close your model. To activate the model, go to Task 3.
+You may now click **Save** and ensure you receive the message box **Succesfully saved the changes** and close your model. To activate the model, go to Task 3.
     
 ### Task 3: Configured State to Active State
-Access your Insight Models, locate your model and ensure it says Configured. Now Activate your model by clicking Activate button. You will receive an Activation Confirmation box, click Activate. YOu will see a system response. 
+Access your Insight Models, locate your model and ensure it says Configured. Now Activate your model by clicking **Activate** button. You will receive an Activation Confirmation box, click **Activate**. You will see a system response. 
 
 Congratulation on completing the Process Mapping! The next exercise will test the mapping and showcase the Console/Dashboards. 
 
