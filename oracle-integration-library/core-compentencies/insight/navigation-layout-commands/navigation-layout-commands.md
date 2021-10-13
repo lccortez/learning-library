@@ -19,13 +19,19 @@ In this workshop, you will:
 ### Navigate
 #### Main Page
 Click the hamburger ![hamburger](./images/hamburger.png " ")at the top left hand site of the home screen. Click on the Insight and you will see Consoles and Models.
+
 #### Models
 Click on Models ![model](./images/model.png " ") to commence creating or modify models.
 ![modelpage](./images/modelpage.png " ")
 In Models, starting left to right, you will see the search tool, filter tool, refresh, list horizontal, or list by block. Above that you will see the Import button or Create button.
 
 #### Consoles
-Click Consoles to view consoles. Consoles are  created once you activate a model. You will see the Name of the console, its Status and the Status Last Updated date/timestamp.
+Click Consoles ![console](./images/console.png " ")to view consoles. 
+![consolepage](./images/consolepage.png " ")
+In Consoles, starting left to right, you will see the search tool, filter tool, the number of how many consoles are listed, refresh, list horizontal, or list by block. 
+![consolepage2](./images/consolepage2.png " ")
+Consoles are created once you activate a model and will have different icons next to the respective titles. You will see the Name, Favorite start, its Status, the Status Last Updated date/timestamp and Today's Business Transactions, which displays Active, Completed and Failed runs.
+
 #### Dashboards
 Open Dashboards via clicking on a Console name to open its related Dashboard. 
 In the Dashboards, starting left to right, you will see the search tool, filter tool, All Dropdown (where you can locate preconfigured or create a custom Dashboard), Rearrange Dashboard, Embed Dashboard, Search Order Number, View All, Purge Console Data, and Refresh. 
@@ -35,9 +41,9 @@ Top right side, you will see the Console Manifest, Import, Create and the three 
 
 Lab 1.
 
-Using the **Hamburger** ![hamburger](images/hamburgericon.png), located on top left hand side of the screen, this will open the Oracle Integration dropdown menu.
+Using the **Hamburger**, located on top left hand side of the screen, this will open the Oracle Integration dropdown menu.
 
-Click **Insight** ![insighticon](images/insighticon.png) to access the Oracle Integration Insight commands of Consoles or Models.
+Click **Insight** to access the Oracle Integration Insight commands of Consoles or Models.
 
 This concludes this lab named Oracle Insight Navigation. You may now [proceed to the next lab](#next). Create a Model.
 
