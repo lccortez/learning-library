@@ -12,11 +12,12 @@ In this lab, you will lean how to create the following:
 *   Create an Indicator
 *   Add Measure to Indicator
 *   Select Data Type for Indicator
+*   Add a Standard Milestone
 
 Indicators represent metrics that are unique to a business process, and are extracted when milestones are passed in a business process implementation. 
 
 
-### Sample of how to Define an Indicator
+### Define an Indicator
 
     A. On the Models page, Click the name or Edit (pencil icon) of the model for which you want to crate indicators. There are two ways to create an Indicator, oneis going the Milestone page or going to Indicators page. In our sample, we will be doing the indicator's page. 
         1. Click on <Indicators> Tab (located between the Identier and Alerts tab)
@@ -30,7 +31,7 @@ Measures, icon is a gastank, are numerical values that can be used by mathematic
 
 Dimensions, icon is blocks provide a type of grouping and categorization of business transactions (instances), allowing for slicing and dicing of aggregate integration measures. 
 
-### Sample of Measures
+### Measures
 
     A. Measures
         1. Click on Measures <Gastank> Tab 
@@ -40,7 +41,7 @@ Dimensions, icon is blocks provide a type of grouping and categorization of busi
         5. Select Data Type from dropdown (String, Integer,Float, or Decimal)
         6. Filterable: Mark the box if you want to use the indicator as filter criteria in dashboards
         
-### Sample of Dimensions
+### Dimensions
 
     A. Dimensions
         1. Click on Dimensions <blocks> Tab 
@@ -53,18 +54,34 @@ Dimensions, icon is blocks provide a type of grouping and categorization of busi
 An indicator can be mapped to one or more milestones. Mapping an indicator to multiple milestones allows the value of the indicator to change during the execution of a business process if necessary.
 
 
-## Excercise 3
+## Excercise 4
 
-In this excercise.......
+Task 1
+You will need to De-Activate your current model. Go to Task 2
 
+Task 2
+Once that occurs, add **Order Received** Milestone Indicators and add the following 2 Dimensions and 3 Measures:
+    a. Product (Dimension of type String)
+    b. Country (Dimension of type String)
+    c. Quantity (Measure of type Integer)
+    d. Unit Price (Measure of type Decimal)
+    e. Total (Measure of type Decimal) 
 
+Now go to Task 3
 
+Task 3
+You will need to add a Standard Milestone named to **Shipped**  Go to Task 4
 
+Task 4
+Add the Shipped Milestone to the **Order Number** Identifier. 
+Save and Close your Model.
 
+Now it's time to Mapping Indicators. Go to the next lab. 
 _________________________________________________________________________________________________
 
 ## Solution 
-When a business process implementation spans more than one integration or process, or both, you must assign the model's unique instance identifier to mapped milestones to establish the correlation between the actions in the same instance of the business process and extract the unique instance identifier value when the specified milestone is passed.
+Your Indicators will look as follows:
+![Indicators](./images/order recieved indicators.jpg " ")
 
 
 ## Summary
