@@ -53,7 +53,7 @@ Now your turn to try!
  You will test you mapping and then view the results of the order in the created Console and Dashboard. 
 
 ### Task 1: Test Mapping
-Open the **Order Processing Lab** in Test. Either use the file named exercise-first-instance.json 
+Open the Integration named **Order Processing Lab** in Test. Either use the file named exercise-first-instance.json 
 Download the [exercise-first-instance.json](files/exercise-first-instance.json?download=1) or copy the following information:
 
  {  <br />

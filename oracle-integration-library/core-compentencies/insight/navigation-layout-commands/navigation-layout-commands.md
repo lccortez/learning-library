@@ -1,4 +1,4 @@
-# Introduction to Oracle Insight Navigation
+# Oracle Insight Navigation
 
 ## About this Workshop
 
@@ -9,8 +9,6 @@ Estimated Workshop Time: 5 Minutes
 ### Oracle Insight Navigation
 The Integration Insight feature (commonly referred to as Insight) is located in home page of Oracle Integration.
 
-
-
 ### Workshop Objectives
 
 In this workshop, you will:
@@ -18,7 +16,7 @@ In this workshop, you will:
 
 ### Navigate
 #### Main Page
-Click the hamburger ![hamburger](./images/hamburger.jpg " ") at the top left hand site of the home screen. Click on the Insight and you will see Consoles and Models.
+Click the hamburger ![hamburger](./images/hamburger.jpg " ")at the top left hand site of the home screen. Click on the Insight and you will see Consoles and Models.
 
 #### Models
 Click on Models ![model](./images/model.jpg " ") to commence creating or modify models.
@@ -47,7 +45,7 @@ Lab 1.
 
 Using the **Hamburger**, located on top left hand side of the screen, this will open the Oracle Integration dropdown menu.
 
-Click **Insight** to access the Oracle Integration Insight commands of Consoles or Models.
+Click **Insight** to access the Oracle Integration Insight commands of **Consoles** or **Models**.
 
 This concludes this lab named Oracle Insight Navigation. You may now [proceed to the next lab](#next). Create a Model.
 
