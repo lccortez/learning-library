@@ -56,10 +56,10 @@ An indicator can be mapped to one or more milestones. Mapping an indicator to mu
 
 ## Excercise 4
 
-## Task 1: De-Activate Model
+### Task 1: De-Activate Model
 You will need to De-Activate your current model. This will put your model back in Draft mode. Go to Task 2
 
-## Task 2: Add a Milestone, Dimensions and Measures
+### Task 2: Add a Milestone, Dimensions and Measures
 Once that occurs, add **Order Received** Milestone Indicators and add the following 2 Dimensions and 3 Measures:
     a. Product (Dimension of type String)
     b. Country (Dimension of type String)
@@ -69,10 +69,10 @@ Once that occurs, add **Order Received** Milestone Indicators and add the follow
 
 Now go to Task 3
 
-## Task 3: Standard Milestone
+### Task 3: Standard Milestone
 You will need to add a Standard Milestone named to **Shipped**  Go to Task 4
 
-## Task 4: Map Milestone
+### Task 4: Map Milestone
 Add the Shipped Milestone to the **Order Number** Identifier. 
 Save and Close your Model.
 
