@@ -43,6 +43,10 @@
             "filename": "../create-indicators/create-indicators.md"
         },
         {
+            "title": "Indictors Test",
+            "filename": "../indicators-test/indicators-test.md"
+        },
+        {
             "title": "Console",
             "filename": "../console/console.md"
         },
