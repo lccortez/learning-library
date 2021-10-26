@@ -43,13 +43,14 @@
             "filename": "../create-indicators/create-indicators.md"
         },
         {
+            "title": "Map Indicators",
+            "filename": "../map-indicators/map-indicators.md"
+        },
+        {
             "title": "Indictors Test",
             "filename": "../indicators-test/indicators-test.md"
         },
         {
-            "title": "Map Indicators",
-            "filename": "../map-indicators/map-indicators.md"
-        },{
             "title": "Console",
             "filename": "../console/console.md"
         },
