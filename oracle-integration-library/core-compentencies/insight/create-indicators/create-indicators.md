@@ -77,11 +77,12 @@ Add the Shipped Milestone to the **Order Number** Identifier.
 Save and Close your Model.
 
 Congratulations, you've done it!
-Now it's time to Test Indicators. Go to the next lab. 
+Now it's time to Map your Indicators. Go to the next lab. 
 _________________________________________________________________________________________________
 
 ## Solution 
 Your Indicators will look as follows:
+
 ![Indicators](./images/order recieved indicators.jpg " ")
 
 
