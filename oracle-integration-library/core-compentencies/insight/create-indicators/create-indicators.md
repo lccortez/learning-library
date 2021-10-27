@@ -70,20 +70,20 @@ Once that occurs, add **Order Received** Milestone Indicators and add the follow
 Now go to Task 3
 
 ### Task 3: Standard Milestone
-You will need to add a Standard Milestone named to **Shipped**  Go to Task 4
+You will need to add a Standard Milestone named to **Shipped**.  Go to Task 4
 
 ### Task 4: Map Milestone
 Add the Shipped Milestone to the **Order Number** Identifier. 
 Save and Close your Model.
-
-Congratulations, you've done it!
-Now it's time to Map your Indicators. Go to the next lab. 
 _________________________________________________________________________________________________
 
 ## Solution 
 Your Indicators will look as follows:
 
-![Indicators](./images/order recieved indicators.jpg " ")
+![Indicators](./images/order received indicators.jpg " ")
 
 
 ## Summary
+
+Congratulations, you've done it!
+Now it's time to Map your Indicators. Go to the next lab. 

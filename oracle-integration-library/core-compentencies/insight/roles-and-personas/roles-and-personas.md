@@ -32,7 +32,7 @@ This user understands how the business works and can use the Insight consoles, w
 This user can view, create, manage, edit, and delete Insight dashboards through the Consoles page. This user does not have access to models through the Models page or create Models.
 
 
-*At the conclusion of the lab add this statement:*
+
 You may now [proceed to the next lab](#next).
 
 ## Learn More
@@ -43,6 +43,6 @@ You may now [proceed to the next lab](#next).
 
 
 ## Acknowledgements
-* **Author** - <Lucy Cortez, Product Enablement Manager, OIC>
-* **Contributors** -  <Name, Group> -- optional
-* **Last Updated By/Date** - <Lucy Cortez, OIC, July 2021>
+* **Author** - Lucy Cortez, Product Enablement Manager, OIC
+* **Contributors** -  OIC Group 
+* **Last Updated By/Date** - Lucy Cortez, OIC, July 2021
