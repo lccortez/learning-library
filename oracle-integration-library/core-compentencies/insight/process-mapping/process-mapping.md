@@ -11,7 +11,7 @@ More info on Insight Models can be found [here](https://docs.oracle.com/en/cloud
 In this lab, you will learn how to create the following:
 - Map an Integration to a Milestone
 - Modify your Draft into a Configured state
-- Activate your Insight Model
+- Activate your Insight Model <br />
 First practice the steps to familiarize yourself with the commands and then do the exercise.
 
 You can associate an Insight Model to a business process implementation in Integrations.
@@ -66,7 +66,7 @@ Now your turn to try!
 
 ### Task 1: Map Milestones/Identifiers
 Accessing your draft model, go to Milestones. You will map 2 Milestones and 2 Indentiers.
-Let's start with the Milestones. Map your Order Received Milestone **"On Exit** event to the **PrepareOrderReceived** activity. Map your Order Completed Milestone **On Exit** event to the **PrepareOrderCompleted** activity. 
+Let's start with the Milestones. Map your Order Received Milestone **On Exit** event to the **PrepareOrderReceived** activity. Map your Order Completed Milestone **On Exit** event to the **PrepareOrderCompleted** activity. 
 
 Now onto the Identifiers. Set your Order Number Identifier Extraction Criteria for the Order Received Milestone to **$OrderNumber**.
 Set your Order Number Identifier Extraction Criteria for the Order Completed Milestone to **$OrderNumber**. Go to Task 2 in order to save your work.
