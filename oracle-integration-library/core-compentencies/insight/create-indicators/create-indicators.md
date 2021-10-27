@@ -60,12 +60,12 @@ An indicator can be mapped to one or more milestones. Mapping an indicator to mu
 You will need to De-Activate your current model. This will put your model back in Draft mode. Go to Task 2
 
 ### Task 2: Add a Milestone, Dimensions and Measures
-Once that occurs, add **Order Received** Milestone Indicators and add the following 2 Dimensions and 3 Measures:
-    a. Product (Dimension of type String)
-    b. Country (Dimension of type String)
-    c. Quantity (Measure of type Integer)
-    d. Unit Price (Measure of type Decimal)
-    e. Total (Measure of type Decimal) 
+Once that occurs, add **Order Received** Milestone Indicators and add the following 2 Dimensions and 3 Measures: <br />
+    a. Product (Dimension of type String) <br />
+    b. Country (Dimension of type String) <br />
+    c. Quantity (Measure of type Integer) <br />
+    d. Unit Price (Measure of type Decimal) <br />
+    e. Total (Measure of type Decimal)  <br />
 
 Now go to Task 3
 
