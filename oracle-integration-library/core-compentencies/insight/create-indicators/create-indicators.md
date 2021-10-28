@@ -70,7 +70,7 @@ Once that occurs, add **Order Received** Milestone Indicators and add the follow
 Now go to Task 3
 
 ### Task 3: Standard Milestone
-You will need to add a Standard Milestone named to **Shipped**.  Go to Task 4
+You will need to add a Standard Milestone named to **Shipped**.  Once completed, go to Task 4
 
 ### Task 4: Map Milestone
 Add the Shipped Milestone to the **Order Number** Identifier. 
