@@ -66,8 +66,8 @@ Set the **UnitPrice** Indicator Extraction Criteria to **$UnitPrice**. Set the *
 
 Map your **Shipped** Milestone **On Exit** event to the **PrepareShipping** activity. <br />
 
-Now onto the Identifier. Set your **Order Number** Identifier Extraction Criteria to the **Shipped** Milestone to **$OrderNumber**.<br />
-Set your Order Number Identifier Extraction Criteria for the Order Completed Milestone to **$OrderNumber**. Go to Task 3 in order to save your work.<br />
+Now onto the Identifier. Set your **Order Number** Identifier Extraction Criteria for the **Shipped** Milestone to **$OrderNumber**.<br />
+Set your **Order Number** Identifier Extraction Criteria for the **Order Completed** Milestone to **$OrderNumber**. Go to Task 3 in order to save your work.<br />
      
 ### Task 3: Draft to Configured State
 You may now click **Save** and ensure you receive the message box **Succesfully saved the changes** and close your model. To activate the model, go to Task 4.
@@ -75,11 +75,12 @@ You may now click **Save** and ensure you receive the message box **Succesfully 
 ### Task 4: Configured State to Active State
 Access your Insight Models, locate your model and ensure it says Configured. Now Activate your model by clicking **Activate** button. You will receive an Activation Confirmation box, click **Activate**. You will see a system response. 
 
-Congratulation on completing the Mapping Indicators! The next exercise will test the mapping and showcase the Console/Dashboards. 
+Congratulation on completing Mapping Indicators! The next exercise will test the mapping and showcase the Console/Dashboards. 
 
 ##Solution
 
 
-
+Task 4:
+![milestonesolution1](./images/milestonesolution1.jpg " ")
 
 ##Summary
