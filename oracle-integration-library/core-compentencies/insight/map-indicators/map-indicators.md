@@ -19,6 +19,8 @@ You can associate an Insight Model to a business process implementation in Integ
 To associate a model to a business process implementation in Integrations, you must map Indicators to Integrations actions.  Mapping Indicators involves identifying execution points that best represent when the milestone has been passed. 
 
 As seen in Learning Objective 2, part of the mapping process you must also define extraction criteria for the Indicators. Extraction criteria define the rules to extract information from runtime messages and is expressed using XPath expressions. Before you can activate a model, the extraction criteria must be defined. 
+### Deactivate a Model
+    A. Click on the 
 
 ### How to Map an Indicator
     A. Click your Indicator Tab, this will expand the view area **or** click the orange Messages circle  (the circle will display how many indicators are missing mapping) 
@@ -63,24 +65,33 @@ Accessing your active model and de-active it to return to a Draft model state. Y
 Let's start with the **Order Received** Milestone Indicators. Set the **Country** Indicator Extraction Criteria to **$Country**.<br />
  Set the **Product** Indicator Extraction Criteria to **$Product**. Set the **Quantity** Indicator Extraction Criteria to **$Quantity**. <br />
 Set the **UnitPrice** Indicator Extraction Criteria to **$UnitPrice**. Set the **Total** Indicator Extraction Criteria to **$Total**. <br />
-
+Now let's map the new milestone and Identifier <br />
+### Task 2: Map Milestone and Indentifier  <br />
+Mapping the new milestone and indentifier 
 Map your **Shipped** Milestone **On Exit** event to the **PrepareShipping** activity. <br />
-
 Now onto the Identifier. Set your **Order Number** Identifier Extraction Criteria for the **Shipped** Milestone to **$OrderNumber**.<br />
 Set your **Order Number** Identifier Extraction Criteria for the **Order Completed** Milestone to **$OrderNumber**. Go to Task 3 in order to save your work.<br />
      
-### Task 3: Draft to Configured State
-You may now click **Save** and ensure you receive the message box **Succesfully saved the changes** and close your model. To activate the model, go to Task 4.
+### Task 3: Draft to Configured State <br />
+You may now click **Save** and ensure you receive the message box **Succesfully saved the changes** and close your model. To activate the model, go to Task 4. 
     
-### Task 4: Configured State to Active State
+### Task 4: Configured State to Active State <br />
 Access your Insight Models, locate your model and ensure it says Configured. Now Activate your model by clicking **Activate** button. You will receive an Activation Confirmation box, click **Activate**. You will see a system response. 
 
 Congratulation on completing Mapping Indicators! The next exercise will test the mapping and showcase the Console/Dashboards. 
 
 ##Solution
+Task 1: <br />
+![deactivate](./images/deactivate.jpg " ") <br />
+![draft](./images/draft.jpg " ")  <br />
 
 
-Task 4:
-![milestonesolution1](./images/milestonesolution1.jpg " ")
+
+Task 3: <br />
+![active map indicators](./images/activate map indicators.jpg " ")
+<br />
+Task 4: <br />
+![reactivate](./images/reactivate.jpg " ")  <br />
+![active map indicators](./images/activate map indicators.jpg " ")  <br />
 
 ##Summary
