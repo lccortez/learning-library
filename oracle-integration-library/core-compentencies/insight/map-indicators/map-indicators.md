@@ -58,7 +58,7 @@ Activating a Model allows it to be tested or used. Active models showcase status
 Now your turn to try!
 
 ## Exercise 5
- You will map your Indicators to an existing integration. The Integration you will use is called **Order Processing Lab**. You will move your active model into a draft model mode then into a configured model state and then re-active model state. 
+ You will map your Indicators to an existing integration. The Integration you will use is called **Order Processing Lab**. You will move your active model into a draft model mode. After completing mapping the Indicators you will move your draft model into a configured model state and then re-active model state. 
 
 ### Task 1: Map Indicators
 Accessing your active model and de-active it to return to a Draft model state. You will map 7 Indicators.<br />
@@ -84,14 +84,14 @@ Congratulation on completing Mapping Indicators! The next exercise will test the
 Task 1: <br />
 ![deactivate](./images/deactivate.jpg " ") <br />
 ![draft](./images/draft.jpg " ")  <br />
-
+![indicatorproduct](./images/indicator-product.jpg " ")  ![indicator product](./images/shipped-milestone.jpg " ")
 
 
 Task 3: <br />
-![active map indicators](./images/activate map indicators.jpg " ")
+![active map indicators](./images/activate-map-indicators.jpg " ")
 <br />
 Task 4: <br />
 ![reactivate](./images/reactivate.jpg " ")  <br />
-![active map indicators](./images/activate map indicators.jpg " ")  <br />
+![active map indicators](./images/activate-map-indicators.jpg " ")  <br />
 
 ##Summary
