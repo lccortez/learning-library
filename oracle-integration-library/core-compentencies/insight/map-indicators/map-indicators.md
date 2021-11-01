@@ -12,15 +12,18 @@ In this lab, you will learn how to create the following:
 - Map Indicators to an Integration
 - Modify your Draft into a Configured state
 - Activate your Insight Model <br />
-First practice the steps to familiarize yourself with the commands and then do the exercise.
 
 You can associate an Insight Model to a business process implementation in Integrations.
 
 To associate a model to a business process implementation in Integrations, you must map Indicators to Integrations actions.  Mapping Indicators involves identifying execution points that best represent when the milestone has been passed. 
 
 As seen in Learning Objective 2, part of the mapping process you must also define extraction criteria for the Indicators. Extraction criteria define the rules to extract information from runtime messages and is expressed using XPath expressions. Before you can activate a model, the extraction criteria must be defined. 
+
+First practice the steps to familiarize yourself with the commands and then do the exercise.
 ### Deactivate a Model
-    A. Click on the 
+    A. Click on the **DeActivate** button, you will receive deactivate confirmation box and click **Deactivate".  This may take upto 5 minutes to accomplish. 
+        1. Click on your model name
+        2. Click on **Open Draft**
 
 ### How to Map an Indicator
     A. Click your Indicator Tab, this will expand the view area **or** click the orange Messages circle  (the circle will display how many indicators are missing mapping) 
