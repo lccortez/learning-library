@@ -36,7 +36,7 @@ A Milestone is a key component of a Model. Milestone(s) define point(s) in a bus
         1. Enter the milestone name "Terminal Milestone Name"
         2. Enter the milestone description "Terminal Milestone Description"
 
-Every Model must have a unique instance Identifier defined. This identifier describes a value that is extracted at runtime for every instance (business transaction) of the business process defined by the model. <br />
+Every Model must have a Unique Instance Identifier defined. This identifier describes a value that is extracted at runtime for every instance (business transaction) of the business process defined by the model. <br />
 ### Identifier Steps
 
     A.  Click tab named <Identifier>, located between 
