@@ -65,7 +65,6 @@ Open the Integration named **Order Processing Lab** in Test.  Copy the following
     "discount": 0,  
     "country": "UK"  
 } 
-
     </copy>
 ```
 

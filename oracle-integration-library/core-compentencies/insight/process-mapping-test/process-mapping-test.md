@@ -56,14 +56,19 @@ Now your turn to try!
 Open the Integration named **Order Processing Lab** in Test. Either use the file named exercise-first-instance.json 
 Download the [exercise-first-instance.json](files/exercise-first-instance.json?download=1) or copy the following information:
 
- {  <br />
-"orderId": "1000",  <br />
-"product": "Laptop", <br />
-"quantity": 5, <br />
-"unitPrice": 1500,  <br />
-"discount": 0,  <br />
-"country": "US"  <br />
-} <br />
+```
+    <copy>
+{  
+"orderId": "1000",  
+"product": "Laptop", 
+"quantity": 5, 
+"unitPrice": 1500,  
+"discount": 0,  
+"country": "US"  
+} 
+} 
+    </copy>
+```
 
 
 You will need to open the Console page to verify.     
