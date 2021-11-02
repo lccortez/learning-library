@@ -49,13 +49,15 @@ In this workshop, you will:
 3.  Lab Preparation
 4.  Oracle Insight Navigation
 5.  Creat a Model
-6.  Process Mapping    
+6.  Map Milestones   
 7.  Create Indicators
-8.  Define an Alert
-9.  SLA
-10. Console
-11. Embedding
-12. Roles and Personas
+8.  Map Indicators
+9.  Test Indicators
+10.  Console
+11.  SLA
+12. Define an Alert
+13. Embedding
+14. Roles and Personas
 
 ## Workshop Prerequisites
 
