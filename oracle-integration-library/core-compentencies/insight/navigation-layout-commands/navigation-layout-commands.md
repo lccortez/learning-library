@@ -16,7 +16,7 @@ In this workshop, you will:
 
 ### Navigate
 #### Main Page
-Click the hamburger ![hamburger](./images/hamburger.jpg " ")at the top left hand site of the home screen. Click on the Insight and you will see Consoles and Models.
+Click the hamburger ![hamburger](./images/hamburger.jpg " ") at the top left hand site of the home screen. Click on the Insight and you will see Consoles and Models.
 
 #### Models
 Click on Models ![model](./images/model.jpg " ") to commence creating or modify models.
@@ -26,7 +26,7 @@ In Models, starting left to right, you will see the search tool, filter tool, re
 
 
 #### Consoles
-Click Consoles ![console](./images/console.jpg " ")to view consoles. 
+Click Consoles ![console](./images/console.jpg " ") to view consoles. 
 ![consolepage](./images/consolepage.jpg " ")
 In Consoles, starting left to right, you will see the search tool, filter tool, the number of how many consoles are listed, refresh, list horizontal, or list by block. 
 ![consolepage2](./images/consolepage2.jpg " ")
@@ -40,8 +40,6 @@ In the Dashboards, starting left to right, you will see the search tool, filter 
 Top right side, you will see the Console Manifest, Import, Create and the three dots is for the Details information. Lastly, you will see blocks with the dashboards displays as built within the model.   
 ### Lab Agenda
 * Access Insight
-
-Lab 1.
 
 Using the **Hamburger**, located on top left hand side of the screen, this will open the Oracle Integration dropdown menu.
 
