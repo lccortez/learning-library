@@ -62,53 +62,52 @@ X Axis: Instance Start Time (Ignore empty valuBar Ces)
 
 ### Task 2: Bubble Chart
 
-Name: Products by Quantity Sold by Country
-Chart Type: Bubble Chart
-X Axis:
-Measure: Quantity
-Aggregating Function: Average
+Name: Products by Quantity Sold by Country 
+Chart Type: Bubble Chart <br />
+X Axis: <br />
+Measure: Quantity <br />
+Aggregating Function: Average <br />
 
-Y Axis:
-Measure: Unit Price
-Aggregating Function: Average
+Y Axis:<br />
+Measure: Unit Price <br />
+Aggregating Function: Average <br />
 
-Bubble Size:
-Measure: Total
-Aggregating Function: Sum
+Bubble Size: <br />
+Measure: Total <br />
+Aggregating Function: Sum <br />
 
-Grouping: Country (Ignore empty values)
+Grouping: Country (Ignore empty values) <br />
 
 ### Task 3: Bar Chart
-Name: Total Order Value by Country
-Chart Type: Bar Chart
-Y Axis:
-Measure: Total
+Name: Total Order Value by Country <br />
+Chart Type: Bar Chart <br />
+Measure: Total <br />
 
-Aggregating Function: Count
+Aggregating Function: Count <br />
 
-X Axis: Instance Start Time (Ignore empty values)
+X Axis: Instance Start Time (Ignore empty values) <br />
 
-Grouping: Country (Ignore empty values)
+Grouping: Country (Ignore empty values) <br />
 
 ### Task 4: Pie Chart
-Name: Quantity Sold by Product
-Chart Type: Pie Chart
-Y Axis:
-Measure: Quantity
+Name: Quantity Sold by Product <br />
+Chart Type: Pie Chart <br />
+Y Axis: <br />
+Measure: Quantity <br />
 
-Aggregating Function: Sum
+Aggregating Function: Sum <br />
 
-X Axis: Product (Ignore empty values)
+X Axis: Product (Ignore empty values) <br />
 
 ### Task 5: Area Chart
-Name: Quantity Sold by Country
-Chart Type: Area Chart
-Y Axis: 
-Measure: Quantity
+Name: Quantity Sold by Country <br />
+Chart Type: Area Chart <br />
+Y Axis:  <br />
+Measure: Quantity <br />
 
-Aggregating Function: Sum
+Aggregating Function: Sum <br />
 
-X Axis: Country (Ignore empty values)
+X Axis: Country (Ignore empty values) <br />
 
 ### Task 5: Test
 Now that you compelted the charts. It's time to test them. Open the <Order Processing Lab> in Test. Invoke the <bulkOrder> operation using                            test data file.
