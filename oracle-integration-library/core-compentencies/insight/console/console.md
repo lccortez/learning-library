@@ -1,7 +1,7 @@
 # Learning Objective 7: Custom Console Dashboards
 
 ## Introduction
-While the Console page is display inforamtion about performance. Preconfigured Dashboards show nominal inforamtion, however, you can create a custom Dashboard to help identify bottlenecks or shortages in the process and track key metrics immediately and in real time. <br />
+While the Console page displays information about performance and preconfigured Dashboards show nominal inforamtion. You can create a custom Dashboard to help identify bottlenecks or shortages in the process and track key metrics immediately and in real time. <br />
 ![Dashboard](./images/feb2021-opp-order-console.jpg " ") <br />
 
 Estimated Lab Time: 15 minutes
@@ -45,9 +45,10 @@ Wnat to see more about the chart type, click [here](https://docs.oracle.com/en/c
             c. Select the <Grouping>, you may select the box to "ignore empty values", if available
         
 
-        Now let's get you to create on of each chart!
-        ## Excercise 5
- You will test your mapping and then view the results of the order(s) in the created Console and Dashboards. 
+ Now let's get you to create on of each chart!
+ ### Excercise 5       
+ 
+ You will create one of each chart type. You will test your mapping and then view the results of the order(s) in the created Console and Dashboards. 
 
 ### Task 1: Bar Chart
 Name: Average Daily Order Value
