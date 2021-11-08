@@ -68,12 +68,6 @@ Open the Integration named **Order Processing Lab** in Test.  Copy the following
     </copy>
 ```
 
-<! ---
-Download the [exercise-indicators.json](files/exercise-indicators.json?download=1)
-
-You will need to open the Console/Dashboard page to verify.  
---->
-
 ### Task 2: Console View
 Access the Console to view your Console named ***My Order Process**. Click on Milestone Summary dashboard shows Order Received (2), Shipped (1), and Order Completed (2).
     

@@ -64,7 +64,7 @@ Now your turn to try!
  You will map your Indicators to an existing integration. The Integration you will use is called **Order Processing Lab**. You will move your active model into a draft mode. After completing mapping the Indicators you will move your draft model into a configured model state and then re-active model state. 
 
 ### Task 1: Map Indicators
-Access your active model and de-active it to return it to a Draft model state. You will map 5 Indicators.<br />
+Access your active model and de-active it to return to a Draft model state. You will map 5 Indicators.<br />
 Let's start with the **Order Received** Milestone Indicators. Set the **Country** Indicator Extraction Criteria to **$Country**.<br />
  Set the **Product** Indicator Extraction Criteria to **$Product**. Set the **Quantity** Indicator Extraction Criteria to **$Quantity**. <br />
 Set the **UnitPrice** Indicator Extraction Criteria to **$UnitPrice**. Set the **Total** Indicator Extraction Criteria to **$Total**. <br />
