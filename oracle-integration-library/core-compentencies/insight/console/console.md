@@ -6,13 +6,11 @@ While the Console page is display inforamtion about performance. Preconfigured D
 
 Estimated Lab Time: 15 minutes
 
-More info on Insight Dashboards can be found [here](https://docs.oracle.com/en/cloud/paas/integration-cloud/user-int-insight-oci/work-console-and-dashboards-business-process.html).
+More info on Insight Dashboards can be found [here](https://docs.oracle.com/en/cloud/paas/integration-cloud/user-int-insight-oci/create-custom-dashboards.html).
 
 ## Learning Objectives
 In this lab, you will learn how to create the following:
-- Custom Dashboard
-- Console Views
-
+- Create Custom Dashboard
 
 Consoles are created and associated within Insight automatically when a model, with defined business processes, has been activated. Standard Dashboards provide 5 summaries to view. However, you can create custom dashboards within Insight.
 
@@ -27,4 +25,101 @@ A bar chart is the only chart type that lets you group by two different dimensio
 * ![bubble](./images/bubble-chart.jpg " ") A bubble chart is a three-dimensional chart, where each bubble groups values of a dimension you choose. The size of each bubble is determined based on values of a measure you select, aggregated using a function you select (such as average, sum, count, or standard deviation). A bubble’s location on the X- and Y- axes is determined based on values of measures you select, aggregated using a function you select (such as average, sum, count, and standard deviation).
 * ![area](./images/area-chart.jpg " ") An area chart is a two-dimensional chart that is a line chart, where the area between the axes and line is shaded to represent the range of measure values for each dimension. The X-axis values are computed based on the values of a dimension you select. The Y-axis values are computed based on values of a measure you select, aggregated using a function you select (such as average, sum, count, or standard deviation).
 * ![line](./images/line-chart.jpg " ") A line chart is a two-dimensional chart that is represented by a series of data points connected with a straight line. Line charts are most often used to visualize data that changes over time. The X-axis values are computed based on the values of a dimension you select. The Y-axis values are computed based on values of a measure you select, aggregated using a function you select (such as average, sum, count, or standard deviation).
-*  ![scatter](./images/scatter-chart.jpg " ")  A scatter chartshows a single point for each point of data in a series without connecting them, showing patterns across hundreds of instances. The X-axis represents one measure, and the Y-axis represents another measure you select. Each point in the scatter chart is a combination of color and shape that represents a unique value of a dimension you select.
+*  ![scatter](./images/scatter-chart.jpg " ")  A scatter chartshows a single point for each point of data in a series without connecting them, showing patterns across hundreds of instances. The X-axis represents one measure, and the Y-axis represents another measure you select. Each point in the scatter chart is a combination of color and shape that represents a unique value of a dimension you select. <br />
+
+Wnat to see more about the chart type, click [here](https://docs.oracle.com/en/cloud/paas/integration-cloud/user-int-insight-oci/create-custom-dashboards.html).
+
+### Custom Dashboard
+
+    A. On the Models page, Click the model for which you want to create a custom dashboard and ensure that the model has indicators (dimensions and measures) defined. If not, follow the steps in Define Indicators in Learning Objective 4.
+        1. On the Models page, <Click> the model for which you want to create a custom dashboard and ensure that the model has indicators (dimensions and measures) defined. If not, follow the steps in Define Indicators in Learning Objective 4.
+        
+        2. In the model's console, click <Create> The Create Dashboard Dialog will appear.
+            a. ENter a suitable name for the dashboard
+            b. Click the dashboard icon to show the icon picker. Choose an appropriate icon for your dashboard.
+            c. Click the chard icon to show the chart picker, Slect a chart appropriate for the data visualization.
+          
+        3. Each chart type will have Y-Axis, X-Axis, Grouping or Ignore Empty Values. X and Y Axis charts will have Measure and Agreation selections and others may be mandartory.
+            a. Select the <Measure>, you may select the box to "ignore empty values", if available
+            b. Select the <Aggregation Funtion>, you may select the box to "ignore empty values", if available 
+            c. Select the <Grouping>, you may select the box to "ignore empty values", if available
+        
+
+        Now let's get you to create on of each chart!
+        ## Excercise 5
+ You will test your mapping and then view the results of the order(s) in the created Console and Dashboards. 
+
+### Task 1: Bar Chart
+Name: Average Daily Order Value
+Chart Type: Bar Chart
+
+Y Axis:
+
+Measure: Total
+Aggregating Function: Average
+X Axis: Instance Start Time (Ignore empty valuBar Ces)
+
+### Task 2: Bubble Chart
+
+Name: Products by Quantity Sold by Country
+Chart Type: Bubble Chart
+X Axis:
+Measure: Quantity
+Aggregating Function: Average
+
+Y Axis:
+Measure: Unit Price
+Aggregating Function: Average
+
+Bubble Size:
+Measure: Total
+Aggregating Function: Sum
+
+Grouping: Country (Ignore empty values)
+
+### Task 3: Bar Chart
+Name: Total Order Value by Country
+Chart Type: Bar Chart
+Y Axis:
+Measure: Total
+
+Aggregating Function: Count
+
+X Axis: Instance Start Time (Ignore empty values)
+
+Grouping: Country (Ignore empty values)
+
+### Task 4: Pie Chart
+Name: Quantity Sold by Product
+Chart Type: Pie Chart
+Y Axis:
+Measure: Quantity
+
+Aggregating Function: Sum
+
+X Axis: Product (Ignore empty values)
+
+### Task 5: Area Chart
+Name: Quantity Sold by Country
+Chart Type: Area Chart
+Y Axis: 
+Measure: Quantity
+
+Aggregating Function: Sum
+
+X Axis: Country (Ignore empty values)
+
+### Task 5: Test
+Now that you compelted the charts. It's time to test them. Open the <Order Processing Lab> in Test. Invoke the <bulkOrder> operation using                            test data file.
+Review custom dashboards.
+
+
+
+## Solution
+
+
+
+## Summary
+Congratulation on completing the Custome Dashboard and Console View.<br />
+
+You may now [proceed to the next lab](#next).
