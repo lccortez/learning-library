@@ -4,7 +4,7 @@
 
 The workshop will cover how to use Oracle Integration Insight to provide real-time business visibibility and analystics for your Executives by allowing business milestones and metrics to be defined, aggregated, and visualized via consoles/dashboards. 
 
-Estimated labs Time: There are XX labs and each may take about 2 hour to complete all LiveLabs and reading material -- this estimate is for the entire workshop - it is the sum of the estimates provided for each of the labs included in the workshop.
+Estimated labs Time: There are 10 labs and each may take about 2 hour to complete all LiveLabs and reading material -- this estimate is for the entire workshop - it is the sum of the estimates provided for each of the labs included in the workshop.
 
 ## About Oracle Integration Insight
 Today's competitive market demands that stakeholders be able to understand, monitor, and react to changing market conditions. Businesses need flexible, dynamic, and detailed insight – and they need it as it happens.
