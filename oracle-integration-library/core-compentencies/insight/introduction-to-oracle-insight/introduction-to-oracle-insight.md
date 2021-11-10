@@ -61,7 +61,7 @@ See **[Editing the Edition, License Type, Message packs and Custom Endpoint of a
 
 This concludes this lab. You may now [proceed to the next lab](#next)
 
-
+<!-- Text formatting -->
 ## Learn More
 
 * [https://docs.oracle.com/en/cloud/paas/integration-cloud/index.html](http://docs.oracle.com)
