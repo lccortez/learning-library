@@ -1,6 +1,6 @@
 # Introduction 
 
-### About this Workshop
+## About this Workshop
 
 The workshop will cover how to use Oracle Integration Insight to provide real-time business visibibility and analystics for your Executives by allowing business milestones and metrics to be defined, aggregated, and visualized via consoles/dashboards. 
 
