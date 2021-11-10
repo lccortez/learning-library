@@ -1,19 +1,19 @@
-# Introduction to Oracle Integration Insight
+# Introduction 
 
-## About this Workshop
+### About this Workshop
 
 The workshop will cover how to use Oracle Integration Insight to provide real-time business visibibility and analystics for your Executives by allowing business milestones and metrics to be defined, aggregated, and visualized via consoles/dashboards. 
 
-Estimated labs Time: There are 10 labs and each may take about 2 hour to complete all LiveLabs and reading material -- this estimate is for the entire workshop - it is the sum of the estimates provided for each of the labs included in the workshop.
+Estimated Workshop Time: There are 10 labs and may take about 2 hours to complete all LiveLabs and reading material -- this estimate is for the entire workshop - it is the sum of the estimates provided for each of the labs included in the workshop.
 
-## About Oracle Integration Insight
+What is Oracle Integration Insight
 Today's competitive market demands that stakeholders be able to understand, monitor, and react to changing market conditions. Businesses need flexible, dynamic, and detailed insight – and they need it as it happens.
 
 Collecting, storing, visualizing, and reporting on business metrics in real time has traditionally been a costly undertaking, requiring significant investment of capital and engineering resources. Software is typically developed to meet the unique needs of business applications. In today’s sophisticated enterprise software environment, many businesses use multiple integrated systems, provided by a variety of vendors, further complicating the task of collecting business metrics.
 
 The Integration Insight feature (commonly referred to as Insight) in Oracle Integration dramatically simplifies the process of modeling and extracting meaningful business metrics for business users. It provides built-in powerful business analytics through a business-friendly experience, allowing users to model, collect, and monitor metrics for their business processes to achieve real-time visibility and react quickly to changing demands.
 
-## Insight Capabilities
+### Insight Capabilities
 Insight can collect metrics from business processes that are implemented using integration flows or process applications (or both) in Oracle Integration.
 
  Insight provides:
@@ -32,7 +32,7 @@ Insight can collect metrics from business processes that are implemented using i
 
 * Early warnings that prevent business failure through alerts that trigger notifications as needed. Alerts can be defined to flag exceptionally high orders, business errors that may otherwise be missed, or orders stuck in one step for longer than the defined service-level agreement (SLA).
 
-## Workshop Objectives
+### What Will You Learn?
 
 In this workshop, you will:
 * Comprehend Insight basic navigation, terminology and key concepts
@@ -40,10 +40,10 @@ In this workshop, you will:
 * Associate model to a business process by mapping model milestone(s) to the business process implementation.
 * Activate the model to view and analyze business processes in real time using dashboard
 * Drag and Drop key business milestones to coordinate activities in context of SLAs
-* Create a  pre-configured or custom dashboards to track metrics, ratios and trends
+* Create a pre-configured or custom dashboards to track metrics, ratios and trends
 * Understand Insight Roles and Personas
 
-## Workshop Agenda
+### Workshop Agenda
 1.  Introduction to Oracle Insight
 2.  Key Concepts
 3.  Lab Preparation
@@ -59,7 +59,7 @@ In this workshop, you will:
 13. Embedding
 14. Roles and Personas
 
-## Workshop Prerequisites
+### What Do You Need?
 
 This workshop requires an active "Oracle Account" and a LiveLabs reservation as described in the "Getting Started" lab in the "Contents" menu.
 
@@ -68,8 +68,6 @@ Insight is available within Oracle Integration Generation 2 and Oracle Integrati
 Please contact your _________________, if needed for an upgrade.
 
 See **[Editing the Edition, License Type, Message packs and Custom Endpoint of an Instance](https://docs.oracle.com/en/cloud/paas/integration-cloud/oracle-integration-oci/editing-edition-license-type-and-message-packs-instance.html)** in Provisioning and Administrating Oracle Integration and Oracle Integration for SaaS, Generation 2.
-
-## Launch the Workshop
 
 * Make sure you have administrator rights on your machine
 * An Oracle Cloud Account - Please view this workshop's LiveLabs landing page to see which environments are supported
@@ -80,7 +78,7 @@ See **[Editing the Edition, License Type, Message packs and Custom Endpoint of a
 This concludes this lab. You may now [proceed to the next lab](#next)
 
 
-## Want to Learn More
+## Learn More
 
 * [https://docs.oracle.com/en/cloud/paas/integration-cloud/index.html](http://docs.oracle.com)
 * [https://docs.oracle.com/en/cloud/paas/integration-cloud/integration-insight.html](http://docs.oracle.com)
