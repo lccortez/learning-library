@@ -43,22 +43,6 @@ In this workshop, you will:
 * Create a pre-configured or custom dashboards to track metrics, ratios and trends
 * Understand Insight Roles and Personas
 
-### Workshop Agenda
-1.  Introduction to Oracle Insight
-2.  Key Concepts
-3.  Lab Preparation
-4.  Oracle Insight Navigation
-5.  Creat a Model
-6.  Map Milestones   
-7.  Create Indicators
-8.  Map Indicators
-9.  Test Indicators
-10.  Console
-11.  SLA
-12. Define an Alert
-13. Embedding
-14. Roles and Personas
-
 ### What Do You Need?
 
 This workshop requires an active "Oracle Account" and a LiveLabs reservation as described in the "Getting Started" lab in the "Contents" menu.
