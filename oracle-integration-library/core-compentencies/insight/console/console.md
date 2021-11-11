@@ -111,7 +111,7 @@ Aggregating Function: Sum <br />
 X Axis: Country (Ignore empty values) <br />
 
 ### Task 5: Test
-Now that you compelted the charts. It's time to test them. Open the <Order Processing Lab> in Test. Invoke the <bulkOrder> operation using                            test data file.
+Now that you compelted the charts. It's time to test them. Open the <Order Processing Lab> in Test. Invoke the <bulkOrder> operation using   TBD      test data file.
 Review custom dashboards.
 
 ## Summary
