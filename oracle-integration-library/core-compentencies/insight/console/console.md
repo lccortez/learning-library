@@ -117,4 +117,4 @@ Review custom dashboards.
 ## Summary
 Congratulation on completing the Custome Dashboard and Console View.<br />
 
-You may now [proceed to the next lab](#next).
+You may now [proceed to the next lab](../define-an-alert/define-an-alert.md).

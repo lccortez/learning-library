@@ -47,6 +47,8 @@ Once Integration has been mapped to the Milestone and Indentifier, it's time to 
     A. Click "Save" and you will receive a confirmation box stating "Succesfully saved the changes"
     B. Exit and return to your Models listing. You will now see your Status as "Configured"
 
+
+Activating a new model (or updating an existing activated model) pushes the new model definition, including mapping metadata, out to the runtime engines used during the mapping process. Mapping metadata is used by the runtime engines to monitor for execution patterns indicating that milestones have been passed. The process of validating a model, distributing it to the runtime engines, and then beginning the process of active monitoring for extracting metrics takes some time to complete. 
 Activating a Model allows it to be tested or used. Active models showcase status of a green dot that says "Activated". <br />
 ### How to Activate a Model
 
