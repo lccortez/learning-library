@@ -46,7 +46,8 @@ Wnat to see more about the chart type, click [here](https://docs.oracle.com/en/c
         
 
  Now let's get you to create on of each chart!
- ### Excercise 5       
+
+## Excercise 5       
  
  You will create one of each chart type. You will test your mapping and then view the results of the order(s) in the created Console and Dashboards. 
 
