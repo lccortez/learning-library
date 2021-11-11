@@ -78,9 +78,6 @@ Review the Progress Tracker to you test instance.
 
 Congratulation on completing the Indicator Mapping Test and Console View.
 
-## Solution
-
-
 
 ## Summary
 Great job mapping and activating and testing your Model.<br />

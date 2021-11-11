@@ -47,8 +47,6 @@ Click **Insight** to access the Oracle Integration Insight commands of **Console
 
 This concludes this lab named Oracle Insight Navigation. You may now [proceed to the next lab](#next). Create a Model.
 
-
-
 ## Want to Learn More
 
 * [https://docs.oracle.com/en/cloud/paas/integration-cloud/index.html](http://docs.oracle.com)

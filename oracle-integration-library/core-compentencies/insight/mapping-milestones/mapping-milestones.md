@@ -80,15 +80,15 @@ Access your Insight Models, locate your model and ensure it says Configured. Now
 Congratulation on completing the Process Mapping! The next exercise will test the mapping and showcase the Console/Dashboards. 
 
 ## Solution
-Milestone solution will show as this:
+Milestone solution:
 ![milestonesolution1](./images/milestonesolution1.jpg " ")
 
-Identifiers solution will show as this:
+Identifiers solution:
 ![identifiersolution1](./images/identifiersolution1.jpg " ")
 
 Draft to Configured State will show as this:
 
-Activation will show as this:
+Activation :
 ![activate](./images/activate.jpg " ")
 
 ## Summary

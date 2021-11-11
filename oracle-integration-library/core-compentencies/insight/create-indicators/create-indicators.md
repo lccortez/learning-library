@@ -77,12 +77,6 @@ Add the Shipped Milestone to the **Order Number** Identifier.
 Save and Close your Model.
 _________________________________________________________________________________________________
 
-## Solution 
-Your Indicators will look as follows:
-
-![Indicators](./images/order received indicators.jpg " ")
-
-
 ## Summary
 
 Congratulations, you've done it!

@@ -80,10 +80,6 @@ Review the 5 Preconfigured Dashboards named **Milestone Summary**, **Passed Mile
 
 Congratulation on completing the Process Mapping Test and Console View.
 
-## Solution
->>>>>
-
-
 ## Summary
 Great job mapping and activating and testing your Model.<br />
 

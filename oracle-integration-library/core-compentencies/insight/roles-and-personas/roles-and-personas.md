@@ -37,8 +37,6 @@ You may now [proceed to the next lab](#next).
 
 ## Learn More
 
-*(optional - include links to docs, white papers, blogs, etc)*
-
 * [https://docs.oracle.com/en/cloud/paas/integration-cloud/user-int-insight-oci/integration-insight-roles.html#GUID-206AFD0C-6F84-41E1-A598-A22BBAFAD2D4](http://docs.oracle.com)
 
 

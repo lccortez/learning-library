@@ -113,12 +113,6 @@ X Axis: Country (Ignore empty values) <br />
 Now that you compelted the charts. It's time to test them. Open the <Order Processing Lab> in Test. Invoke the <bulkOrder> operation using                            test data file.
 Review custom dashboards.
 
-
-
-## Solution
-
-
-
 ## Summary
 Congratulation on completing the Custome Dashboard and Console View.<br />
 

@@ -65,11 +65,6 @@ As taught, each Model needs an Initial and Terminal Milestone. For your Initial 
 Finish your Draft Model by creating an Identifier. The Identifier name is  **Order Number**, the Data Type is **String** and assign to **Order Received** and **Order Completed** Milestones.
 Save and Close your Draft Model.
 
-
-## Solution
-
-
-
 ## Summary
 Great job creating your Draft Model.<br />
 
