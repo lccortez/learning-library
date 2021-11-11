@@ -55,20 +55,20 @@
             "filename": "../console/console.md"
         },
         {
-            "title": "SLA",
-            "filename": "../sla/sla.md"
-        },
-        {
             "title": "Define an Alert",
             "filename": "../define-an-alert/define-an-alert.md"
         },
         {
-            "title": "Embedding",
-            "filename": "../embedding/embedding.md"
-        },
-        {
             "title": "Roles and Personas",
             "filename": "../roles-and-personas/roles-and-personas.md"
+        },
+        {
+            "title": "SLA-Optional",
+            "filename": "../sla/sla.md"
+        },
+        {
+            "title": "Embedding- Optional",
+            "filename": "../embedding/embedding.md"
         },
         {
             "title": "Need Help?",
