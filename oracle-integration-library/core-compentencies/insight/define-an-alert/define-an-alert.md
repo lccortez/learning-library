@@ -49,7 +49,7 @@ Open your existing Model and add an alert. Decide if your alert will be based on
 
 ### Task 2: Test Alert
 
-
+Run another Test using you model and see if you receive your email.
 
 
 ## Solution
