@@ -31,7 +31,6 @@ Insight can collect metrics from business processes that are implemented using i
 * Advanced analytics presented in both preconfigured and custom dashboards. Dashboards can be viewed in Oracle Integration or embedded in external applications, portals, or web sites in a number of ways, as described in Embed Insight Dashboards in Other Applications.
 
 * Early warnings that prevent business failure through alerts that trigger notifications as needed. Alerts can be defined to flag exceptionally high orders, business errors that may otherwise be missed, or orders stuck in one step for longer than the defined service-level agreement (SLA).
-
 ### What Will You Learn?
 
 In this workshop, you will:

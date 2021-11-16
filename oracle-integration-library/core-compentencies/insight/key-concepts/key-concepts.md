@@ -6,6 +6,7 @@ The Lab will cover Orcale Integration Insight key concepts and terminology for e
 
 Estimated Lab Time: This Lab will be 15 minutes.
 
+
 ## Model
 A model is a business process, comprising of Milestone(s), a Unique Instance Indentifier, Indicator(s), and Alert(s). A model passes through several states during its lifecycle. 
 There are 8 states: 
@@ -78,3 +79,7 @@ You can optionally define alerts in your model to notify users by email when:
 * An indicator (dimension or measure) is equal to, greater than, or less than a specified value.
 
 You can configure the alert notification email to include the unique instance identifier, indicator values, and a link to the associated Business Transactions dashboard in the body of the email.
+
+## Learn More
+
+More about key concepts and terminology can be found at [https://docs.oracle.com/en/cloud/paas/integration-cloud/user-int-insight-oci/work-models-integration-insight.html](http://docs.oracle.com)

@@ -5,7 +5,13 @@ The Lab will cover how to build a simple model by reading the learning objective
 
 Estimated Lab Time: 15 minutes
 
-More info on Insight Models can be found [here](https://docs.oracle.com/en/cloud/paas/integration-cloud/user-int-insight-oci/work-models-integration-insight.html).
+To use Insight to monitor a business process in Oracle Integration, there are several tasks to complete before you can track business metrics on the Insight dashboards.
+
+The high-level workflow is as follows:
+
+Create a model, defining milestones, a unique instance identifier, indicators, and alerts.
+Associate the model to a business process implementation by mapping model milestones to the business process implementation.
+Activate the model to allow business executives to view and analyze business processes in real time using dashboards.
 
 ## Learning Objectives
 In this lab, you will learn how to create the following:
@@ -65,7 +71,10 @@ As taught, each Model needs an Initial and Terminal Milestone. For your Initial 
 Finish your Draft Model by creating an Identifier. The Identifier name is  **Order Number**, the Data Type is **String** and assign to **Order Received** and **Order Completed** Milestones.
 Save and Close your Draft Model.
 
-## Summary
-Great job creating your Draft Model.<br />
-
+Great job creating your Draft Model.<br /> 
 You may now [proceed to the next lab](#next).
+## Learn More
+
+More info on Insight Models can be found [here](https://docs.oracle.com/en/cloud/paas/integration-cloud/user-int-insight-oci/work-models-integration-insight.html).
+
+
