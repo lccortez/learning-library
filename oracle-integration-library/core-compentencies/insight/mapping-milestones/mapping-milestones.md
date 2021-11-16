@@ -85,10 +85,11 @@ Congratulation on completing the Process Mapping! The next exercise will test th
 Milestone solution:
 ![milestonesolution1](./images/milestonesolution1.jpg " ")
 
-Identifiers solution:
+Identifiers solution: <br />
 ![identifiersolution1](./images/identifiersolution1.jpg " ")
 
-Draft to Configured State will show as this:
+Draft to Configured State will show as this: <br /> 
+![drafttoconfigure](./images/drafttoconfigure.jpg " ")
 
 Activation :
 ![activate](./images/activate.jpg " ")
