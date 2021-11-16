@@ -4,6 +4,8 @@ This workshop walks you through the 3 roles of Personas and Permissions in Oracl
 
 Estimated Workshop Time: 5 minutes
 
+
+
 ### Roles
 
 Permissions in Insight are defined by Oracle Integration roles. The role(s) that you are assigned define your persona in Insight. Individuals maybe one or more roles within the assigned permissions. During this training you were given all permissions and therefore were able to perform all areas of Oracle Insight. Please see your Oracle Integration Manager to see which permission(s) you may have in your production environment.
@@ -32,8 +34,6 @@ This user understands how the business works and can use the Insight consoles, w
 This user can view, create, manage, edit, and delete Insight dashboards through the Consoles page. This user does not have access to models through the Models page or create Models.
 
 
-
-You may now [proceed to the next lab](#next).
 
 ## Learn More
 

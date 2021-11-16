@@ -72,7 +72,10 @@ Finish your Draft Model by creating an Identifier. The Identifier name is  **Ord
 Save and Close your Draft Model.
 
 Great job creating your Draft Model.<br /> 
+**[Click here for troubleshooting Insight.](https://docs.oracle.com/en/cloud/paas/integration-cloud/user-int-insight-oci/troubleshoot-integration-insight.html)*** <br />
+
 You may now [proceed to the next lab](#next).
+
 ## Learn More
 
 More info on Insight Models can be found [here](https://docs.oracle.com/en/cloud/paas/integration-cloud/user-int-insight-oci/work-models-integration-insight.html).
