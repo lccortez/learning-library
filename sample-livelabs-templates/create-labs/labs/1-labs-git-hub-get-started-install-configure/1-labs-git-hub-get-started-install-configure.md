@@ -22,7 +22,7 @@ In this lab, you will learn how to create a GitHub Account and associate it with
 Before getting started, we recommend you submit your workshop to the LWMS. 	Submitting a workshop tells the Oracle ecosystem you are working on a workshop and submits your idea to the Workshop Council.  We urge you not to delay this step.  There are hundreds of workshops already, this step is important to helps us preserve the quality and integrity of the workshop catalog
 
 1.  Login to Corporate VPN
-2.  Go to http://bit.ly/oraclelivelabs.  This is only available to Oracle Employees at this time.
+2.  Go to Visual.  This is only available to Oracle Employees at this time.
 3.  Click **Submit a New LiveLab**
 4.  Fill in the required fields including the abstract *thoroughly*.  Failure to do so will prevent your workshop from being approved.
 5.  Click **Submit**
