@@ -4,7 +4,7 @@
 
 The Lab will cover how to add an alert to your Model. 
 
-Estimated Lab Time: 5 minutes
+Estimated Lab Time: 15 minutes
 
 ## Learning Objectives
 In this lab, you will learn how to create the following:
@@ -43,11 +43,25 @@ In this lab, you will learn how to create the following:
 
 
 ## Excercise
- 
-### Task 1: Create An Alert
-Open your existing Model and add an alert. Decide if your alert will be based on a Milestone or an Indicator. Define the Alert by configuring your personal email as both the <To> and <From>. Ensure the indentifier and Indicator values are mappend to same milestone that your alert is configured to. 
 
-### Task 2: Test Alert
+You will be using your existing Active Model. YOu will be creating alerts by adding new milestones, indicators and add an alert for them. You will be tesing your alert as well. 
+
+### Task 1: DeActivate
+Open your existing Model and move it into Draft mode.
+
+### Task 2: Add Milestones
+You will need to add an <error milestone> named <Backordered> and move this new Milestone before the existing <Shipped> Milestone. Add the <Backordered> milestone to the <Order Nubmer> Indentifier.
+
+### Task 3: Add Indicators
+Add <Backordered> milestone Indicators named <Backordered Quantity> (Measure of type Integer)
+
+### Task 4: Add Alert
+Create the Indicator type Alert named <Backordered Quantity>. Set the condition to less than 100. Set the <Action to Send email> and enter{Backordered Quantity} units for product ${Product}.>
+Next, create a Milestone Type Alert named <Shipping Delay>, set the From Milestone to <Backordered>. Set the To Milestone to <Shipped>. Set the condition to Not Passed with <1> minute. Set teh Action Email tand enter your email address and configure the email by selecting your OIC instance fro the email From field. SEtting the email Subject to <Backorder has delayed shipping>. Set the email Body to <You have a backorder of ${Backordered Quantity} untis for product ${Product} which is delaying shipping.>
+Save and Close .
+
+###Task 5: Map Milestone and Indictors
+
 
 Run another Test using you model and see if you receive your email.
 
