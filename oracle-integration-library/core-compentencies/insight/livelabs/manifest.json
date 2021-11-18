@@ -1,8 +1,8 @@
 {
-    "workshoptitle": "Insight ",
+    "workshoptitle": "Createing B2B Integration in Oracle Integration",
     "help": "livelabs-help-**enterarea**_us@oracle.com",
     "tutorials": [
-                {
+        {
             "title": "Introduction to Oracle Integration Insight",
             "description": "Introduction to Oracle Integration Insight",
             "filename": "../introduction-to-oracle-insight/introduction-to-oracle-insight.md"
