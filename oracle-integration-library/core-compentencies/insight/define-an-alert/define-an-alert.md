@@ -66,14 +66,32 @@ Save your work.
 Verify your Insight Model is the Configured state and then Activate you Insight Model. 
 
 ### Task 6: Testing your Alert
+Open the Integration named **Order Processing Lab** in Test.  Invoke the **orderReceived** operation by copying the following information:
 
+```
+    <copy>
+{  
+"orderId": "1002",  
+"product": "USB Cable", 
+"quantity": 250, 
+"unitPrice": 12,  
+"discount": 0,  
+"country": "DE"  
+} 
+    </copy>
+```
+Wait at least 1 minute and invoke the **shipping** operation by copying the following information:
 
+  <copy>
+{  
+"orderId": "1002",  
+"quantity": 250, 
+"availableQuantity": 250
+} 
+    </copy>
 
-
-
-
-## Solution
-
-
+Go to your email and verify you received 2 emails. One with the subject: **Backordered Quantity exceeded threshold** , and another with the subject: **Backorder has delayed shipping**
+Try running some of your own test instances (Order Id 1000+ are reserved for lab test data)
 
 ## Summary
+Congratulation in completing this Lab. 

@@ -80,4 +80,4 @@ ________________________________________________________________________________
 ## Summary
 
 Congratulations, you've done it!
-Now it's time to Map your Indicators. Go to the next lab. 
+You may now [proceed to the next lab](#next).

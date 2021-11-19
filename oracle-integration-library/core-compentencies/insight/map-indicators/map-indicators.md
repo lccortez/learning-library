@@ -98,3 +98,5 @@ Task 4: <br />
 ![active map indicators](./images/activate-map-indicators.jpg " ")  <br />
 
 ##Summary
+
+You may now [proceed to the next lab](#next).
