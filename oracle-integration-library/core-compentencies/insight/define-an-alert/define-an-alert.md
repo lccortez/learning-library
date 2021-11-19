@@ -40,8 +40,6 @@ In this lab, you will learn how to create the following:
         6. Click <Done> and <Save>
 
 
-
-
 ## Excercise
 
 You will be using your existing Active Model. YOu will be creating alerts by adding new milestones, indicators and add an alert for them. You will be tesing your alert as well. 
